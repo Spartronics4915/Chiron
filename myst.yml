@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 6c319d76-7076-44b1-8aad-72ce9ef0d80a
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/Spartronics4915/Chiron
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
