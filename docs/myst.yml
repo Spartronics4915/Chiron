@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 extends:
-  toc.yml
+  - toc.yml
 
 project:
   id: 66f6a28a-6249-4079-b959-8f7731efef3b

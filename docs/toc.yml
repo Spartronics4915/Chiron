@@ -6,11 +6,12 @@ project:
 
     - file: course/index.md
       children:
-        - file: course/phase_1/index.md 
+        - file: course/phase_1/index.md
           children:
             - file: 'course/phase_1/what_is_programming.md'
             - file: 'course/phase_1/what_is_python.md'
-            - file: 'course/phase_1/what_is_FRC.md'
+            - file: 'course/phase_1/what_is_frc.md'
+            - file: 'course/phase_1/installation.md'
         - file: course/phase_2/index.md
           children:
             - file: course/phase_2/variables.md
