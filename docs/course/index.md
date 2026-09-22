@@ -1,4 +1,3 @@
 ---
 title: Learning Course
-description:
 ---
