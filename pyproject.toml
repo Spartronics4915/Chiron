@@ -1,0 +1,40 @@
+[project]
+name = "chiron-course"
+version = "0.1.0"
+description = "Spartronics 4915 programming course and simulation exercises"
+requires-python = ">=3.14,<3.15"
+dependencies = [
+  "robotpy==2026.2.2",
+  "robotpy-commands-v2==2026.2.2",
+  "pyfrc==2026.0.3",
+  "pytest==9.1.1",
+  "ipykernel==7.3.0",
+  "ipywidgets==8.1.9",
+  "matplotlib==3.11.2",
+  "numpy==2.5.3",
+]
+
+[dependency-groups]
+docs = [
+  "jupyter-server==2.21.1",
+  "nbclient==0.11.0",
+  "nbformat==5.11.1",
+  "pyyaml==6.0.3",
+  "ruff==0.16.8",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "examples/mechanism/solution/test_intake_contract.py"]
+pythonpath = ["."]
+addopts = "-ra"
+
+[tool.ruff]
+target-version = "py314"
+line-length = 100
+include = ["examples/**/*.py", "tools/**/*.py", "tests/**/*.py"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F"]

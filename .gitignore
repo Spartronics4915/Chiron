@@ -1,4 +1,15 @@
-.idea
 
 # MyST build outputs
 _build
+.research-cache/
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.coverage
+htmlcov/
+sim.json
+networktables.json

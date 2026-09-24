@@ -1,0 +1,3 @@
+/* Layout, dark mode, and keyboard focus remain owned by book-theme. */
+article img { max-width: 100%; height: auto; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }

@@ -1,0 +1,15 @@
+{
+  "name": "chiron-course",
+  "private": true,
+  "version": "0.1.0",
+  "engines": { "node": ">=24 <27" },
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html --strict",
+    "build:execute": "myst build --html --execute --strict",
+    "check:content": "python tools/check_content.py",
+    "check:links": "python tools/check_links.py",
+    "preview": "python tools/preview.py"
+  },
+  "devDependencies": { "mystmd": "1.11.0" }
+}

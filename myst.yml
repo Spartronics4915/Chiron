@@ -1,0 +1,140 @@
+version: 1
+project:
+    id: 66f6a28a-6249-4079-b959-8f7731efef3b
+    title: Chiron
+    description: Cool Stuff.
+    authors:
+        - name: Spartronics 4915
+    github: https://github.com/Spartronics4915/Chiron
+    jupyter:
+      lite: true
+    exclude:
+        - research/**
+        - design/**
+        - student-work/**
+        - examples/**
+        - tools/**
+        - tests/**
+        - templates/**
+        - snippets/**
+        - .research-cache/**
+        - .venv/**
+        - node_modules/**
+        - README.md
+        - AGENTS.md
+        - LICENSE.md
+        - api/**
+        - extensions/**
+    toc:
+        - file: index.md
+        - file: course/index.md
+          children:
+            - file: course/feature-guide.md
+            - file: course/setup/index.md
+              title: Course Setup
+              children:
+                - file: course/setup/required-tools.md
+                - file: course/setup/vs-code.md
+                - file: course/setup/git-and-github.md
+                - file: course/setup/forking-and-cloning.md
+                - file: course/setup/python-environment.md
+                - file: course/setup/saving-your-work.md
+            - file: course/python/index.md
+              title: Stage 0 · Python Fundamentals
+              children:
+                  - file: course/python/first-program.md
+                  - file: course/python/values-and-variables.md
+                  - file: course/python/debugging.md
+                  - file: course/python/operators.md
+                  - file: course/python/conditionals.md
+                  - file: course/python/loops.md
+                  - file: course/python/functions.md
+                  - file: course/python/checking-behavior.md
+                  - file: course/python/lists-and-dictionaries.md
+                  - file: course/python/classes-and-objects.md
+                  - file: course/python/methods-and-state.md
+                  - file: course/python/object-state.ipynb
+                  - file: course/python/modules-and-composition.md
+                  - file: course/python/intake-project.md
+            - file: course/robot/index.md
+              title: Stage 1A · A Working Mechanism
+              children:
+                  - file: course/robot/control-and-feedback.md
+                  - file: course/robot/framework-and-lifecycle.md
+                  - file: course/robot/running-the-simulator.md
+                  - file: course/robot/timed-actions-and-debugging.md
+            - file: course/subsystems/index.md
+              title: Stage 1B · Mechanical Subsystems
+              children:
+                - file: course/subsystems/robot-code-structure.md
+                - file: course/subsystems/owning-a-mechanism.md
+                - file: course/subsystems/command-lifecycle.md
+                - file: course/subsystems/defaults-and-triggers.md
+                - file: course/subsystems/feedback-control.md
+                - file: course/subsystems/mechanism-project.md
+
+        - file: hardware/index.md
+          children:
+            - title: Cameras
+              children:
+                - file: hardware/cameras/limelight.md
+                - file: hardware/cameras/photon_cameras.md
+            - title: Computers
+              children:
+                - file: hardware/computers/roborio_1.md
+                - file: hardware/computers/roborio_2.md
+                - file: hardware/computers/systemcore.md
+            - title: Motors
+              children:
+                - file: hardware/motors/ctre_motors.md
+                  title: CTRE Motors
+                - file: hardware/motors/rev_motors.md
+                  title: REV Motors
+            - title: Radios
+              children:
+                - file: hardware/radios/vh_109.md
+                  title: VH-109
+
+        - file: reference/index.md
+          children:
+            - file: reference/photon/photon_lib.md
+              children:
+                - file: reference/photon/getting_target_data.md
+                - file: reference/photon/using_target_data.md
+                - file: reference/photon/pose_estimation.md
+                - file: reference/photon/camera_controls.md
+                - file: reference/photon/simulation.md
+            - file: reference/phoenix/phoenix_6.md
+              children:
+                - file: reference/phoenix/devices/devices.md
+                - file: reference/phoenix/general/general.md
+                - file: reference/phoenix/mechanisms/mechanisms.md
+
+        - file: educators/index.md
+          hidden: true
+        - file: educators/cohort-start.md
+          hidden: true
+        - file: educators/teaching-approach.md
+          hidden: true
+        - file: educators/checkpoints.md
+          hidden: true
+        - file: contributing/index.md
+          hidden: true
+        - file: contributing/authoring.md
+          hidden: true
+
+site:
+    template: https://github.com/myst-templates/book-theme/archive/23f2df5493e23dfb1d9433c8aa64c87beb4232a3.zip
+    options:
+        folders: true
+        logo: images/site_logo.png
+        logo_text: Chiron · Spartronics 4915
+        style: assets/style.css
+        logo_alt: Spartronics 4915
+    nav:
+        - title: Learning Course
+          url: /course
+        - title: Hardware Guides
+          url: /hardware
+        - title: API Reference
+          url: /reference

@@ -1,0 +1,65 @@
+name: Validate course
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: validate-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version-file: .python-version
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/uv
+          key: uv-${{ runner.os }}-${{ hashFiles('uv.lock', '.python-version') }}
+      - run: python -m pip install uv==0.11.28
+      - run: uv sync --frozen --group docs
+      - run: npm ci
+      - run: uv run python tools/validate.py
+      - name: Upload review site
+        uses: actions/upload-artifact@v4
+        with:
+          name: course-site
+          path: _build/html
+          retention-days: 14
+      - name: Upload checks and failure reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: validation-reports
+          path: _build/reports
+          if-no-files-found: ignore
+      - name: Prepare validated Pages artifact
+        if: github.repository == 'Spartronics4915/Chiron' && github.ref == 'refs/heads/main' && github.event_name == 'push'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _build/html
+  deploy:
+    needs: validate
+    if: github.repository == 'Spartronics4915/Chiron' && github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

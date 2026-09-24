@@ -1,4 +1,0 @@
----
-Title: Learning Course
----
-

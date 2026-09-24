@@ -1,0 +1,2632 @@
+{
+  "name": "frcdesign",
+  "repository": "frcdesign/FRCDesign.org",
+  "commit": "bf97fe228fef7d01330de1d6f56cfab79e9ed057",
+  "retrieved": "2026-09-21 America/Los_Angeles",
+  "page_count": 170,
+  "pages": [
+    {
+      "path": "src/content/docs/best-practices/assembly-setup.mdx",
+      "title": "Assembly Best Practices",
+      "url_candidate": "https://frcdesign.org/best-practices/assembly-setup/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/best-practices/assembly-setup.mdx",
+      "sha256": "cbb03d2c85defbb87555abf032b4aa20f81651fa7c03045b0481d3f52ba69118",
+      "words_approx": 878,
+      "headings": [
+        "The Origin Cube",
+        "Process for Inserting Parts",
+        "Example: Stage 2C - Slapdown Intake",
+        "Example: Stage 2D - Cascade Elevator",
+        "Example: 3647 Millennium Falcons 2024 Intake",
+        "Simplified Models",
+        "Other Small Things"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/best-practices/document-setup.mdx",
+      "title": "Document Setup",
+      "url_candidate": "https://frcdesign.org/best-practices/document-setup/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/best-practices/document-setup.mdx",
+      "sha256": "51e3972006a127dcb87fdba086e97f3dfcd08700791854316e84c0bf561cce00",
+      "words_approx": 332,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/best-practices/feature-tree-setup.mdx",
+      "title": "Part Studio Best Practices",
+      "url_candidate": "https://frcdesign.org/best-practices/feature-tree-setup/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/best-practices/feature-tree-setup.mdx",
+      "sha256": "16b182ca601e24e8a344141baa8b4198adeca400e53ac2c085f4c2883e252102",
+      "words_approx": 526,
+      "headings": [
+        "What to Include in the Part Studio",
+        "Feature Tree Organization",
+        "The Importance of Intelligent Origins"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/best-practices/index.mdx",
+      "title": "CAD Best Practices: Why?",
+      "url_candidate": "https://frcdesign.org/best-practices/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/best-practices/index.mdx",
+      "sha256": "b08f2f43e9609ed76821eacdf22d4cbd1bce42dbd15bc6655c01dea97175e201",
+      "words_approx": 154,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/best-practices/master-sketch-setup.mdx",
+      "title": "Layout Sketch Best Practices",
+      "url_candidate": "https://frcdesign.org/best-practices/master-sketch-setup/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/best-practices/master-sketch-setup.mdx",
+      "sha256": "42153a546457efda20ae315a43d1e797f7524ba055f072165577b0e5fd30a065",
+      "words_approx": 550,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/best-practices/sub-document-setup.mdx",
+      "title": "Sub-Document Setup",
+      "url_candidate": "https://frcdesign.org/best-practices/sub-document-setup/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/best-practices/sub-document-setup.mdx",
+      "sha256": "69fb97a378042842a1090d265c02824e985ed754bcc9b16dd75cca184b618178",
+      "words_approx": 319,
+      "headings": [
+        "Subsystems with Multiple Degrees of Freedom"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/contribution/adding-a-page.mdx",
+      "title": "Adding a Page",
+      "url_candidate": "https://frcdesign.org/contribution/adding-a-page/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/contribution/adding-a-page.mdx",
+      "sha256": "7d7eca35136175f6144d0a8852265575dfa8e11d56cce8d6936b8d821e2756c1",
+      "words_approx": 1111,
+      "headings": [
+        "File Structure",
+        "Frontmatter",
+        "Updating the Sidebar",
+        "Renaming or Moving a Page",
+        "Images",
+        "Videos",
+        "Components",
+        "ContentFigure",
+        "Aside",
+        "Slides",
+        "ContentRow",
+        "LinkButton",
+        "ImageTable",
+        "Centered Content",
+        "Links",
+        "Table of Contents"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/contribution/contributors.mdx",
+      "title": "Website Contributors",
+      "url_candidate": "https://frcdesign.org/contribution/contributors/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/contribution/contributors.mdx",
+      "sha256": "82a132d7810df3bc6cb78f56fca69025541a09cf8aeb5b65f19f3fe81e586554",
+      "words_approx": 441,
+      "headings": [
+        "Primary Contributors",
+        "Other Contributors",
+        "Additional Input",
+        "FRCDesignLib Contributors",
+        "Primary Contributors",
+        "Other Contributors",
+        "KrayonCAD",
+        "FRCDesignApp Contributors",
+        "Primary Contributors"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/contribution/mechanism-contribution.mdx",
+      "title": "Contributing to Mechanism Examples",
+      "url_candidate": "https://frcdesign.org/contribution/mechanism-contribution/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/contribution/mechanism-contribution.mdx",
+      "sha256": "f59d044512b833b46113e4424fca8770efc023e9799fb7d8c5e3b9612966c10a",
+      "words_approx": 1019,
+      "headings": [
+        "Adding Mechanism Examples",
+        "Adding a Mechanism Example",
+        "Adding to the Category Index (Advanced)",
+        "Creating a Full Page",
+        "Behind the Design",
+        "Images",
+        "Adding a Mechanism Category (Optional)",
+        "Content Files",
+        "Category Name",
+        "Landing Page Component (Advanced)",
+        "Setting a Featured In-Depth Example (Advanced)"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/contribution/methods-of-contributing.mdx",
+      "title": "Methods of Contributing",
+      "url_candidate": "https://frcdesign.org/contribution/methods-of-contributing/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/contribution/methods-of-contributing.mdx",
+      "sha256": "f86972715c8654db6ad77466695ee16389d9148c97dcf8fa8ee32a471d36b3e2",
+      "words_approx": 1554,
+      "headings": [
+        "Public Contribution",
+        "Setting up GitHub and VS Code For Contributing",
+        "Install Prerequisites",
+        "Steps to Start Writing Contributions",
+        "How to Get The Local Preview of the Website Running"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/contribution/styleguide.mdx",
+      "title": "Contribution Style Guide",
+      "url_candidate": "https://frcdesign.org/contribution/styleguide/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/contribution/styleguide.mdx",
+      "sha256": "cead92905c5ac8e67937e72bdb79c1e8a57e02261755e62157dee348136769a4",
+      "words_approx": 1278,
+      "headings": [
+        "Futureproofing and Usefulness",
+        "Why is this important?",
+        "To make this easier, here are a few tips:",
+        "Inspired by gm0's Style Guide",
+        "Social Cards",
+        "Glossary Terms",
+        "Brand Standards"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/design-handbook/design-writeups/designing-for-controllability.mdx",
+      "title": "Designing for Controllability",
+      "url_candidate": "https://frcdesign.org/design-handbook/design-writeups/designing-for-controllability/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/design-handbook/design-writeups/designing-for-controllability.mdx",
+      "sha256": "a2bbb1aa278c65c3ed9ae6be54b8d81b8830df40ebbec14430fc537c7bb5382d",
+      "words_approx": 1593,
+      "headings": [
+        "Backlash",
+        "Power Transmission Methods",
+        "Using Less Stages on a Gearbox",
+        "Shim Tape/Green Lockite",
+        "Shim Tape",
+        "Green Loctite",
+        "Tensioning",
+        "Hardstops",
+        "Mechanical Hardstops",
+        "Non-Mechanical Hardstops",
+        "Encoders for Rotational Position"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/design-handbook/index.mdx",
+      "title": "Design Handbook",
+      "url_candidate": "https://frcdesign.org/design-handbook/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/design-handbook/index.mdx",
+      "sha256": "23629c8dd3b5389f6827ba3cb0c6436f15a54694059d2cec3423cef7ae05b48f",
+      "words_approx": 163,
+      "headings": [
+        "Hardware",
+        "Power Transmission",
+        "Design Write-ups"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/design-handbook/power-transmission/motion-components.mdx",
+      "title": "Motion Components",
+      "url_candidate": "https://frcdesign.org/design-handbook/power-transmission/motion-components/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/design-handbook/power-transmission/motion-components.mdx",
+      "sha256": "07a004b76f5978afd397b88dfe997f7f114199acd9f09104f912ce39a776b207",
+      "words_approx": 2671,
+      "headings": [
+        "Radial Bearings",
+        "Flanged Bearings",
+        "Standard Bearings",
+        "Needle Bearings",
+        "X-Contact",
+        "Bushings",
+        "Other Bearings",
+        "Axles",
+        "Material",
+        "Diameter",
+        "Profile",
+        "Tips for Manufacturing and Assembly",
+        "Bearings Retention",
+        "Shaft Retention",
+        "Shaft Retention with Dead Axles",
+        "Tolerances",
+        "Custom Axles"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/design-handbook/structure/design-for-3d-printing.mdx",
+      "title": "Design for 3D Printing",
+      "url_candidate": "https://frcdesign.org/design-handbook/structure/design-for-3d-printing/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/design-handbook/structure/design-for-3d-printing.mdx",
+      "sha256": "687543a1c2140d1485e690bb625dfdc6531f124f507533dd468bf505befe047a",
+      "words_approx": 1478,
+      "headings": [
+        "Introduction",
+        "Versatility of 3D Printed Parts in FRC",
+        "When to Choose 3D Printing over Machining",
+        "Part Types Covered in This Guide",
+        "Spacers",
+        "Crush Blocks",
+        "Tricks for Printing Crush Blocks",
+        "Power Transmission",
+        "Pulleys",
+        "Tips for Printing Pulleys",
+        "Gears",
+        "Tips for Gears",
+        "Custom Brackets and Structure",
+        "Tips for Custom Brackets",
+        "Sensor Mounts",
+        "Tips for Sensors and Strain Relief",
+        "Final Notes",
+        "Additional Resources"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/design-handbook/structure/fasteners.mdx",
+      "title": "Fasteners",
+      "url_candidate": "https://frcdesign.org/design-handbook/structure/fasteners/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/design-handbook/structure/fasteners.mdx",
+      "sha256": "1d8e6cf8231a5b0a1c41640e33f1fe732e352fda09bae433296a358ab1e3a63b",
+      "words_approx": 2207,
+      "headings": [
+        "Fasteners in CAD",
+        "Why Put Fasteners in CAD?",
+        "Best Practices",
+        "Bolts",
+        "Bolt Sizes",
+        "Imperial",
+        "Metric",
+        "Bolt Retention",
+        "Nuts",
+        "Tapping",
+        "Rivets",
+        "Rivets vs. Bolts",
+        "Grip Length"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/design-handbook/structure/intro-to-3d-printing.mdx",
+      "title": "Intro to 3D Printing",
+      "url_candidate": "https://frcdesign.org/design-handbook/structure/intro-to-3d-printing/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/design-handbook/structure/intro-to-3d-printing.mdx",
+      "sha256": "214bcda7b0e2ad15933c8b31bb55106901ef57e0436eabcd225661065a583a00",
+      "words_approx": 1226,
+      "headings": [
+        "The Power of 3D Printing for FRC",
+        "Core Concepts of 3D Printing",
+        "What is 3D Printing?",
+        "Overview of the 3D Printing Workflow",
+        "Types of 3D Printers",
+        "Fused Deposition Modeling (FDM)",
+        "Other Printer Types",
+        "Slicing Software",
+        "Materials (Filaments for FDM)"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/design-handbook/structure/materials.mdx",
+      "title": "Materials",
+      "url_candidate": "https://frcdesign.org/design-handbook/structure/materials/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/design-handbook/structure/materials.mdx",
+      "sha256": "72213dd1faafb8205d89250aaa2c057291d9ba737ebf01e70cfc94efb6cb270a",
+      "words_approx": 1289,
+      "headings": [
+        "Aluminum",
+        "Sheet Thickness",
+        "Alloy",
+        "Billet",
+        "Polycarbonate",
+        "Sheet Thickness",
+        "Steel",
+        "Self-Reinforced Polypropylene (SRPP)",
+        "Carbon Fiber",
+        "Wood"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/design-handbook/structure/structure.mdx",
+      "title": "Structure",
+      "url_candidate": "https://frcdesign.org/design-handbook/structure/structure/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/design-handbook/structure/structure.mdx",
+      "sha256": "5a33cae8427490cf487b1efe221db9f2fa18dfba8d8571511aa7d14a1611bc20",
+      "words_approx": 475,
+      "headings": [
+        "Box Tube",
+        "Tube Plugs",
+        "Crush Blocks"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/introduction/index.mdx",
+      "title": "Educator's Guide Overview",
+      "url_candidate": "https://frcdesign.org/educators-guide/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/introduction/index.mdx",
+      "sha256": "455c2ab946f77ca4ddb107ae91a3462fbe9d04673e4d509ba1c67a922df3d1ba",
+      "words_approx": 610,
+      "headings": [
+        "Course Usage",
+        "Course Content"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/introduction/preparation.mdx",
+      "title": "Preparation",
+      "url_candidate": "https://frcdesign.org/educators-guide/introduction/preparation/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/introduction/preparation.mdx",
+      "sha256": "01c3e2edd614614f497e65542f430ae2b7defb69aa414b22912887df950658da",
+      "words_approx": 339,
+      "headings": [
+        "Onshape Classroom",
+        "Final Advice"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/introduction/the-stages.mdx",
+      "title": "The Stages",
+      "url_candidate": "https://frcdesign.org/educators-guide/introduction/the-stages/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/introduction/the-stages.mdx",
+      "sha256": "9e916ba88a7c788c187606f75f71fe04e3626b6ca8ac1d1b5b1599db43480079",
+      "words_approx": 443,
+      "headings": [
+        "Stage Section Overview"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/stage0/overview.mdx",
+      "title": "Stage 0: Introduction to CAD",
+      "url_candidate": "https://frcdesign.org/educators-guide/stage0/overview/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/stage0/overview.mdx",
+      "sha256": "742af6dd13acae6ad6c8942ec0a46f2025fc382124c57ed89dcd90515d15bedd",
+      "words_approx": 538,
+      "headings": [
+        "Overview",
+        "Why CAD?",
+        "Account Setup",
+        "CAD Theory",
+        "Navigation",
+        "Best Practices",
+        "Learning Outcomes",
+        "Moving Forward"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/stage1/index.mdx",
+      "title": "Stage 1 Overview",
+      "url_candidate": "https://frcdesign.org/educators-guide/stage1/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/stage1/index.mdx",
+      "sha256": "54e21d4e7c466bb3d38574f0d529d31eea09d70db6a13090f320870ce133542d",
+      "words_approx": 440,
+      "headings": [
+        "Teaching Approach",
+        "Stage Structure",
+        "Stage 1A: CAD Fundamentals",
+        "Stage 1B: Power Transmission Basics",
+        "Stage 1C: Practice Mechanisms",
+        "Stage 1D: Design Methodology",
+        "Teaching Tips"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/stage1/stage1a.mdx",
+      "title": "Stage 1A: CAD Fundamentals",
+      "url_candidate": "https://frcdesign.org/educators-guide/stage1/stage1a/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/stage1/stage1a.mdx",
+      "sha256": "71dc31126c00bb15bbb343e91295cc8948f4e54fe806ec231a185f3412a8c7a0",
+      "words_approx": 401,
+      "headings": [
+        "Overview",
+        "Learning Objectives",
+        "Teaching Structure",
+        "1. Onshape Learning Courses",
+        "2. Practice Exercises",
+        "Teaching Tips",
+        "Learning Courses",
+        "Practice Exercises",
+        "Common Student Challenges",
+        "Resources",
+        "Assessment"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/stage1/stage1b.mdx",
+      "title": "Stage 1B - Power Transmissions",
+      "url_candidate": "https://frcdesign.org/educators-guide/stage1/stage1b/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/stage1/stage1b.mdx",
+      "sha256": "66aefce3b5337a7a3412940b14246b0061cf5574038874e8e5cc7fc29614350e",
+      "words_approx": 346,
+      "headings": [
+        "Learning Objectives",
+        "Suggested Teaching Flow",
+        "1. Theory Introduction",
+        "2. CAD Skills Introduction",
+        "3. Guided Practice",
+        "4. Assessment & Support",
+        "Tips for Success"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/stage1/stage1c.mdx",
+      "title": "Stage 1C - Practice Mechanisms",
+      "url_candidate": "https://frcdesign.org/educators-guide/stage1/stage1c/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/stage1/stage1c.mdx",
+      "sha256": "f46c051570bf261293c4f015157d9bbda548206601c2d0ca2d31573ad1d63061",
+      "words_approx": 426,
+      "headings": [
+        "Learning Objectives",
+        "Teaching Structure",
+        "Progressive Independence",
+        "Exercise Sequence",
+        "Teaching Tips",
+        "Concept Reinforcement",
+        "Common Challenges",
+        "Assessment Opportunities",
+        "Extension Activities",
+        "Success Indicators"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/stage1/stage1d.mdx",
+      "title": "Stage 1D - Design Methodology",
+      "url_candidate": "https://frcdesign.org/educators-guide/stage1/stage1d/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/stage1/stage1d.mdx",
+      "sha256": "34bfa89ea23ef1507319b0e37789e41806efef0168f5a2d9e31f931a84da0c54",
+      "words_approx": 473,
+      "headings": [
+        "Learning Objectives",
+        "Teaching Structure",
+        "Design Process Introduction",
+        "Project Phases",
+        "Teaching Tips",
+        "Key Concepts to Emphasize",
+        "Common Challenges",
+        "Assessment Strategies",
+        "Troubleshooting Guide",
+        "Success Criteria",
+        "Implementation Tips"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/educators-guide/stage1/stage1e.mdx",
+      "title": "Stage 1E - Subsystem Workflow",
+      "url_candidate": "https://frcdesign.org/educators-guide/stage1/stage1e/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/educators-guide/stage1/stage1e.mdx",
+      "sha256": "d9d23bb72d7d4f8821183d2d70020fcb01776af0d3233fe4a935ddb52060aff0",
+      "words_approx": 354,
+      "headings": [
+        "Learning Objectives",
+        "Teaching Structure",
+        "Project Phases",
+        "Teaching Tips",
+        "Practical Considerations",
+        "FRC-Specific Requirements",
+        "Design Validation",
+        "Common Challenges",
+        "Assessment Strategies",
+        "Resources",
+        "Extension Activities",
+        "Success Indicators"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/feature-guide/index.mdx",
+      "title": "Website Feature Guide",
+      "url_candidate": "https://frcdesign.org/feature-guide/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/feature-guide/index.mdx",
+      "sha256": "5de37c90c898c50589577ddf388e04a47adc822af1e6742f10cee25c6d5a97ee",
+      "words_approx": 350,
+      "headings": [
+        "Across the Website",
+        "Admonitions (Call-Outs)",
+        "Learning Course",
+        "Buttons",
+        "Slideshows"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/index.mdx",
+      "title": "Welcome to FRCDesign.org",
+      "url_candidate": "https://frcdesign.org/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/index.mdx",
+      "sha256": "d15994d92308bbda09c592e43a2eb514d5d5a687a138259ed0cf4104968bd812",
+      "words_approx": 207,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/course-setup/new-to-cad.mdx",
+      "title": "New to CAD",
+      "url_candidate": "https://frcdesign.org/learning-course/course-setup/new-to-cad/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/course-setup/new-to-cad.mdx",
+      "sha256": "88321a6122b9087f712af48fdb34c1e994b73d6f73e4d3b2758be7dcbcc084f6",
+      "words_approx": 416,
+      "headings": [
+        "What is CAD?",
+        "Why Use CAD for FRC?"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/course-setup/new-to-onshape/account-setup.mdx",
+      "title": "Account Setup",
+      "url_candidate": "https://frcdesign.org/learning-course/course-setup/new-to-onshape/account-setup/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/course-setup/new-to-onshape/account-setup.mdx",
+      "sha256": "15c4b10e73641ccd7fdf518a6e0d793bca9c01a87010f6cd78d74d573666a178",
+      "words_approx": 366,
+      "headings": [
+        "Registering an Account",
+        "Account Setup",
+        "OPTIONAL: Onshape Educator Plan"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/course-setup/new-to-onshape/documents-page.mdx",
+      "title": "Documents Page",
+      "url_candidate": "https://frcdesign.org/learning-course/course-setup/new-to-onshape/documents-page/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/course-setup/new-to-onshape/documents-page.mdx",
+      "sha256": "a4fd08f8cd74ead3642ebda5965e4145d28b0c74eb6dbef0f25fc3166cb04192",
+      "words_approx": 290,
+      "headings": [
+        "Documents Page",
+        "Customizing Your Account",
+        "Creating Documents"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/course-setup/new-to-onshape/performance-tuning.mdx",
+      "title": "Performance Tuning",
+      "url_candidate": "https://frcdesign.org/learning-course/course-setup/new-to-onshape/performance-tuning/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/course-setup/new-to-onshape/performance-tuning.mdx",
+      "sha256": "dcf291a62799dd59f09f4c0e276c5f248c24211b3c6e58ad9de3a89a23671f00",
+      "words_approx": 281,
+      "headings": [
+        "Performance Tuning",
+        "Improving Chrome Performance"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/course-setup/required-course-tools/featurescripts.mdx",
+      "title": "Custom Features",
+      "url_candidate": "https://frcdesign.org/learning-course/course-setup/required-course-tools/featurescripts/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/course-setup/required-course-tools/featurescripts.mdx",
+      "sha256": "96f3c79b71fe2f9eaf7c13d07c23f7114bc5bf374c100433692d9c6ad9fe4301",
+      "words_approx": 247,
+      "headings": [
+        "Featurescripts"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/course-setup/required-course-tools/part-library.mdx",
+      "title": "Part Library",
+      "url_candidate": "https://frcdesign.org/learning-course/course-setup/required-course-tools/part-library/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/course-setup/required-course-tools/part-library.mdx",
+      "sha256": "f22ec6b1ef5bfacf38f7259a1b1b5901a5710be120a095d5068dfa5d8dda0eed",
+      "words_approx": 152,
+      "headings": [
+        "Setting up FRCDesignApp"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/index.mdx",
+      "title": "FRC Design Learning Course",
+      "url_candidate": "https://frcdesign.org/learning-course/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/index.mdx",
+      "sha256": "55a0f9836fc19829cfdc25db61a8230a2d7107be46a72184429b4027f5d66d24",
+      "words_approx": 416,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/next-steps.mdx",
+      "title": "Next Steps",
+      "url_candidate": "https://frcdesign.org/learning-course/next-steps/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/next-steps.mdx",
+      "sha256": "ae74a2b64c042b0f793d8e7e5fceb50acafd6787426e4415a72308ae65bc9d04",
+      "words_approx": 385,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/focusing-on-improvement.mdx",
+      "title": "Focusing on Improvement",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/focusing-on-improvement/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/focusing-on-improvement.mdx",
+      "sha256": "d1dbfde4bb7a23df57684d4317d42c6d700cda8eea15a549ef398d9a5c1f47c3",
+      "words_approx": 461,
+      "headings": [
+        "Exercise Instructions",
+        "Review Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section1-exercise0.mdx",
+      "title": "1A: Onshape Fundamentals - Section 1",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section1-exercise0/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section1-exercise0.mdx",
+      "sha256": "2cdc01ce883c89101f8b5a847f3a49903a9cf5e02f992adac3e693d2a2f91696",
+      "words_approx": 247,
+      "headings": [
+        "Exercise 0: Setup and Navigating Onshape",
+        "Navigating in a Part Studio",
+        "Navigating to Different Exercises"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section1-exercise1.mdx",
+      "title": "1A: Onshape Fundamentals - Section 1",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section1-exercise1/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section1-exercise1.mdx",
+      "sha256": "5b2432a09b5a9cb1ecb48a59f6695d9d1c5b80eae21239db7153e46f3020e613",
+      "words_approx": 408,
+      "headings": [
+        "Exercise 1: Making Your First Tube",
+        "Video Tutorial",
+        "Reference Images",
+        "Extrude Tool Info",
+        "Tube Converter Settings",
+        "Done following along?"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section1-exercise2.mdx",
+      "title": "1A: Onshape Fundamentals - Section 1",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section1-exercise2/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section1-exercise2.mdx",
+      "sha256": "54d93b5ccd38b8d3c2b3eb29a8c0fed01bb7e6cbe903453165cdd33fb47d95ed",
+      "words_approx": 324,
+      "headings": [
+        "Drivetrains",
+        "Exercise 2: Adding Cross Rails",
+        "Quick Part Studio Check",
+        "Make It Look Nicer"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section1-exercise3.mdx",
+      "title": "1A: Onshape Fundamentals - Section 1",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section1-exercise3/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section1-exercise3.mdx",
+      "sha256": "67efd308f51263acfd5fc908829127b8ac83b346f64f8ea95f0a774c50223ab5",
+      "words_approx": 561,
+      "headings": [
+        "Exercise 3: More Extrudes",
+        "Looks a bit weird?",
+        "Fixed your extrude?",
+        "Exercise 3.1: Sketching Basics",
+        "What You Learned",
+        "Exercise 3.2: Adding Rails",
+        "Check Your Work"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section1-exercise4.mdx",
+      "title": "1A: Onshape Fundamentals - Section 1",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section1-exercise4/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section1-exercise4.mdx",
+      "sha256": "5ebd3bc8248775b2f61f3fde5edf80a451ea47c3362ecd98e60111b6f754c71b",
+      "words_approx": 278,
+      "headings": [
+        "Exercise 4: Sketching the Drivetrain Frame",
+        "Finishing Up"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section1-exercise5.mdx",
+      "title": "1A: Onshape Fundamentals - Section 1",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section1-exercise5/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section1-exercise5.mdx",
+      "sha256": "70278cded55935755f2f5b6b059ab48cb7c10b7e0abe66133d9206e04aa7d073",
+      "words_approx": 693,
+      "headings": [
+        "Exercise 5: Building a Box Superstructure",
+        "Introduction",
+        "Layout Sketch and Drivetrain",
+        "Modeling the Frame",
+        "Requirements",
+        "Finishing Up"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section1-exercise6.mdx",
+      "title": "1A: Onshape Fundamentals - Section 1",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section1-exercise6/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section1-exercise6.mdx",
+      "sha256": "c24eb00e70a43a7a2228f4ae66388ecad5e249e0e5b3579f443c6f505fe4e5c2",
+      "words_approx": 341,
+      "headings": [
+        "Exercise 6: Triangle Frame",
+        "Your Task",
+        "Aligned Rectangle",
+        "Finishing Up"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section1-setup.mdx",
+      "title": "1A: Onshape Fundamentals - Section 1",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section1-setup/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section1-setup.mdx",
+      "sha256": "cbaa6f54e56db125b8c6742fbc15382567abace3ecdc19016911b1e0b0bed7e6",
+      "words_approx": 475,
+      "headings": [
+        "Introduction and Setup",
+        "Box Tube Intro",
+        "Example Usage",
+        "Important: Copy this Document!"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section2-exercise1.mdx",
+      "title": "1A: Onshape Fundamentals - Section 2",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section2-exercise1/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section2-exercise1.mdx",
+      "sha256": "78774be2c183315619900259583df81f6ebac3044f3b73126b9c4c02e15ab984",
+      "words_approx": 706,
+      "headings": [
+        "Introduction",
+        "What Are Plates?",
+        "Background",
+        "Exercise 1: Plate Workflow",
+        "Complete?"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section2-exercise2.mdx",
+      "title": "1A: Onshape Fundamentals - Section 2",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section2-exercise2/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section2-exercise2.mdx",
+      "sha256": "466f1f2983cbea36cbe0338c3ada3b531ccd3a0bfe0e6f9626e6b41cda255901",
+      "words_approx": 256,
+      "headings": [
+        "Exercise 2: Gusset",
+        "Complete?"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section2-exercise3.mdx",
+      "title": "1A: Onshape Fundamentals - Section 2",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section2-exercise3/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section2-exercise3.mdx",
+      "sha256": "a1164715a05635c6896e9d3a92d969ad80c4221fef697063248e2df7643ef7ca",
+      "words_approx": 274,
+      "headings": [
+        "Exercise 3: Superstructure Gussets & Plate"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section2-exercise4.mdx",
+      "title": "1A: Onshape Fundamentals - Section 2",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section2-exercise4/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section2-exercise4.mdx",
+      "sha256": "3adf8dfbda178e99cd6ce7151afd1297e987b6fc68072b383018eb9ecd80b355",
+      "words_approx": 307,
+      "headings": [
+        "Exercise 4: Motor Mounting Plate",
+        "Complete?"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section3-exercise1.mdx",
+      "title": "1A: Onshape Fundamentals - Section 3",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section3-exercise1/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section3-exercise1.mdx",
+      "sha256": "2f20be27b9742bde7799e2b0ffeedefca196641652ed7dc49e5d0994e9ab5513",
+      "words_approx": 274,
+      "headings": [
+        "Assembly Introduction",
+        "Exercise 1: Rivets"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section3-exercise2.mdx",
+      "title": "1A: Onshape Fundamentals - Section 3",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section3-exercise2/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section3-exercise2.mdx",
+      "sha256": "69a3f4ca1f031a1bbfa84d875d40066a16dff13a8b9fb80df8b65156995b9df4",
+      "words_approx": 190,
+      "headings": [
+        "Exercise 2: Swerve Drive Assembly"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section3-exercise3.mdx",
+      "title": "1A: Onshape Fundamentals - Section 3",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section3-exercise3/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section3-exercise3.mdx",
+      "sha256": "8368c70451aa4eb01d3b4dc3ae5b9bcb20cab80d16c3e237a7521676350c81ed",
+      "words_approx": 108,
+      "headings": [
+        "Exercise 3: Gusset Setup"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section3-exercise4.mdx",
+      "title": "1A: Onshape Fundamentals - Section 3",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section3-exercise4/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section3-exercise4.mdx",
+      "sha256": "fa5c45b87513aa06f9f082cc2575d6721bb2c760358e2ce7fe4eaecb3359381b",
+      "words_approx": 207,
+      "headings": [
+        "Exercise 4: Full Frame Assembly"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1a/section3-exercise5.mdx",
+      "title": "1A: Onshape Fundamentals - Section 3",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1a/section3-exercise5/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1a/section3-exercise5.mdx",
+      "sha256": "3b785b02a06a7e3ff03cc71c9c9fa46a61201966aa832c1312afcab87231e8a7",
+      "words_approx": 138,
+      "headings": [
+        "Exercise 5: Adding Fasteners and Gussets to a Full Frame"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/belts.mdx",
+      "title": "Belt and Pulley Basics",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/belts/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/belts.mdx",
+      "sha256": "1396010a31861bec770cb9cff7e28f199dd60dd37033894202990a9d6ddc5132",
+      "words_approx": 875,
+      "headings": [
+        "Belts and Pulley Basics",
+        "Types of Belt",
+        "Modeling Belt Transmissions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/chain.mdx",
+      "title": "Chain and Sprocket Basics",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/chain/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/chain.mdx",
+      "sha256": "a34cabb4165d298f013fd3c546fdd8c8a00b932238af35ed3b5361df3c16720d",
+      "words_approx": 705,
+      "headings": [
+        "Chain and Sprocket Basics",
+        "Types of Chain",
+        "Modeling Chain Transmissions",
+        "Chain Tensioners"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/exercise1.mdx",
+      "title": "Exercise 1: Simple Gearbox",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/exercise1/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/exercise1.mdx",
+      "sha256": "062a469975a16e92db9b33eaab7be5d9a456881fc92f2b5c18a0df130ff0535c",
+      "words_approx": 1173,
+      "headings": [
+        "Practice Exercises",
+        "Exercise 1: Simple Gearbox",
+        "Layout Sketches",
+        "Part Studio Instructions",
+        "Assembly Instructions",
+        "Configurable Parts"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/exercise2.mdx",
+      "title": "Exercise 2: Two Stage Gearbox",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/exercise2/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/exercise2.mdx",
+      "sha256": "9a573b5406a05444fd154251ab946e684ec5e998588d7cd0abc08882cb0585e1",
+      "words_approx": 569,
+      "headings": [
+        "Exercise 2: Two Stage Gearbox",
+        "Part Studio Instructions",
+        "Assembly Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/exercise3.mdx",
+      "title": "Exercise 3: Gear and Belt Gearbox",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/exercise3/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/exercise3.mdx",
+      "sha256": "b41173c90d8f13bdb9c24c0174bc8fcc9b83870f79e23d5e8c8080fd631eb35a",
+      "words_approx": 1434,
+      "headings": [
+        "Exercise 3: Belt and Gear Transmission",
+        "Part Studio Instructions",
+        "Assembly Instructions",
+        "Parametric Modeling"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/gears.mdx",
+      "title": "Gear Basics",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/gears/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/gears.mdx",
+      "sha256": "089fe511915a84bd1837788bf33b00eaf994c8c9d67c485791ce7177e0a0db5e",
+      "words_approx": 780,
+      "headings": [
+        "Power Transmissions",
+        "Gear Basics",
+        "**Changing Speed and Torque with Gears**",
+        "Center to Center Calculation",
+        "Modeling Gear Transmissions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/introduction.mdx",
+      "title": "Power Transmissions Introduction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/introduction.mdx",
+      "sha256": "4e597df444987f1124ef001fda3206a6d24ef8299d309dc3e50835bc11aab1f5",
+      "words_approx": 259,
+      "headings": [
+        "Examples"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/motors.mdx",
+      "title": "Motors",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/motors/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/motors.mdx",
+      "sha256": "77c1b26653abb5735ac9043112d868698787e8025c7044de0c43b72d9e66a508",
+      "words_approx": 232,
+      "headings": [
+        "CIM Class Motors"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/shafts-bearings.mdx",
+      "title": "Shafts and Bearings",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/shafts-bearings/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/shafts-bearings.mdx",
+      "sha256": "7042f1bd0a0a2bb845240be48fbd9c60b6b1153684c9ecf0a6f3cbfd40c442d2",
+      "words_approx": 238,
+      "headings": [
+        "Shafts",
+        "Bearings",
+        "Example",
+        "Bushings",
+        "Modeling"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/summary.mdx",
+      "title": "Stage 1B Summary",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/summary/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/summary.mdx",
+      "sha256": "45a47339504c8d5fda20638f3ba9873f8d877b373d732227cc48de7fd9b01043",
+      "words_approx": 226,
+      "headings": [
+        "Summary"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1b/torque-speed.mdx",
+      "title": "Torque and Speed",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1b/torque-speed/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1b/torque-speed.mdx",
+      "sha256": "790b9a5630d9ce1ae865db632ba63e9f56b7ea9c76e659c50eeae5d8ec35ab6e",
+      "words_approx": 527,
+      "headings": [
+        "Mechanical Advantage",
+        "Ratio Applications"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/exercise-overview.mdx",
+      "title": "Exercise Overview",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/exercise-overview/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/exercise-overview.mdx",
+      "sha256": "7899cac71d4d679c9b0663202d65b5aa4e8a964c7f59d3342fc1bcf6025f9cef",
+      "words_approx": 420,
+      "headings": [
+        "Focusing on Improvement"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/exercise1.mdx",
+      "title": "Exercise 1: Flat Intake",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/exercise1/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/exercise1.mdx",
+      "sha256": "bffab047d23c227c580731a00cff9f3c066a4cb1726564ffb88dabd2b01f1ac5",
+      "words_approx": 1439,
+      "headings": [
+        "Tube Plugs",
+        "Bolt and Rivet Usage",
+        "Part Studio Instructions",
+        "Assembly Instructions",
+        "Parametric Modeling"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/exercise2.mdx",
+      "title": "Exercise 2: Dead Axle Rollers",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/exercise2/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/exercise2.mdx",
+      "sha256": "9b2da4a390db0f5c861e0fcc47b6ab407f05e3931d54f883a4256d4fed32b9e3",
+      "words_approx": 892,
+      "headings": [
+        "Live and Dead Axle Rollers",
+        "Part Studio Instructions",
+        "Assembly Instructions",
+        "Minimizing Unique Part Count"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/exercise3.mdx",
+      "title": "Exercise 3: Ball Shooter",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/exercise3/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/exercise3.mdx",
+      "sha256": "b6f0e92e849cf99dbb8b2e81c68001c13650d4d23c068fbbdf013c4f890d6ee3",
+      "words_approx": 1486,
+      "headings": [
+        "3D-printed Pulleys",
+        "Nut Strips",
+        "Block Motors",
+        "Part Studio Instructions",
+        "Assembly Instructions",
+        "Isolate, Hide, and Make Transparent"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/exercise4.mdx",
+      "title": "Exercise 4: Telescoping Hook",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/exercise4/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/exercise4.mdx",
+      "sha256": "0f62c6795bab6f099ed270aa2bc865ab451917a160f6809868af4ac7c3f50d4c",
+      "words_approx": 1234,
+      "headings": [
+        "Leveraging COTS Components",
+        "Crush Blocks",
+        "Part Studio Instructions",
+        "Assembly Instructions",
+        "Section Views"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/exercise5.mdx",
+      "title": "Exercise 5: Flipped Gearbox",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/exercise5/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/exercise5.mdx",
+      "sha256": "0e8e0389c5cbc2092d6bfe2f3be4ad52c7373e12615b84c6c7a04285284cf6b5",
+      "words_approx": 826,
+      "headings": [
+        "Part Studio Instructions",
+        "Assembly Instructions",
+        "Interference Detection"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/exercise6.mdx",
+      "title": "Exercise 6: Direction Swap",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/exercise6/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/exercise6.mdx",
+      "sha256": "0131034d55c5d27242efbdf68aba7223ef34f4ab24af3681f37d2e91231cc652",
+      "words_approx": 921,
+      "headings": [
+        "3D Printed, COTS, and Custom Aluminum Spacers",
+        "Part Studio Instructions",
+        "Assembly Instructions",
+        "Driving and Driven Dimensions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/exercise7.mdx",
+      "title": "Exercise 7: Vertical Rollers",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/exercise7/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/exercise7.mdx",
+      "sha256": "c39a3e2a646406371276ace9256944a9981b9dbd287f4977ea2793e7dc31050a",
+      "words_approx": 617,
+      "headings": [
+        "3D Printing to Reduce Part Count",
+        "Part Studio Instructions",
+        "Assembly Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/exercise8.mdx",
+      "title": "Exercise 8: Indexer Centering",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/exercise8/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/exercise8.mdx",
+      "sha256": "9fe86b9ad74e934ad45d29f1c40b91b47ca67e7a7ccc1938ab1743760cd23d1c",
+      "words_approx": 592,
+      "headings": [
+        "Part Studio Instructions",
+        "Assembly Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/introduction.mdx",
+      "title": "Practice Mechanisms Introduction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/introduction.mdx",
+      "sha256": "dfaca6765f78c087d72dc9575b19aef5a635b47be8c78dd4d7f7764bdcfb6274",
+      "words_approx": 447,
+      "headings": [
+        "Layout Sketches",
+        "Maintaining Consistent Origins"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1c/summary.mdx",
+      "title": "Summary",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1c/summary/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1c/summary.mdx",
+      "sha256": "baa241408fabe70884d3082bcc6af3c9365eb41f9c3c23e7cc83cadacaf6b50d",
+      "words_approx": 264,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1d/adding-components.mdx",
+      "title": "Adding More Components",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1d/adding-components/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1d/adding-components.mdx",
+      "sha256": "16237989fee86920e02f8f225f357040f1c616423f0188edc0ec6867a79c0853",
+      "words_approx": 485,
+      "headings": [
+        "Adding More Components",
+        "Instructions",
+        "Level of Detail"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1d/assembly-modeling.mdx",
+      "title": "Assembly",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1d/assembly-modeling/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1d/assembly-modeling.mdx",
+      "sha256": "5ce07b18ebb92e092ce980cfea63f2815cd774460e519ed08fd26ce922ed21d5",
+      "words_approx": 288,
+      "headings": [
+        "Assembly",
+        "Instructions",
+        "Rivet Grip Length"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1d/introduction.mdx",
+      "title": "Design Methodology Introduction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1d/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1d/introduction.mdx",
+      "sha256": "195e27f8e24c5605135c9f930eda2f9c6cc3c7189c3e1e55b5116bade9e82ef7",
+      "words_approx": 152,
+      "headings": [
+        "Introduction"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1d/layout-sketch.mdx",
+      "title": "Layout Sketch",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1d/layout-sketch/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1d/layout-sketch.mdx",
+      "sha256": "b52bfbc745980dcc53833c2c7a6d1c4dba2428ccfe99bd8dd6db2a8ae5ecc049",
+      "words_approx": 469,
+      "headings": [
+        "Drivetrain Layout Sketches",
+        "Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1d/part-modeling.mdx",
+      "title": "Part Studio",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1d/part-modeling/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1d/part-modeling.mdx",
+      "sha256": "064d85b741ead2836238897375e7d2ed36ed0d25dac7ff91058e52d6d3a39a9e",
+      "words_approx": 495,
+      "headings": [
+        "Deriving Layout Sketches and Part Modeling",
+        "Instructions",
+        "Derived Feature",
+        "Feature Tree Organization"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1d/project-overview.mdx",
+      "title": "Project Overview",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1d/project-overview/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1d/project-overview.mdx",
+      "sha256": "5143149c9749be22714ea3af03a2e3f22be2345ac0547dd5ea7089465d3e0ae2",
+      "words_approx": 270,
+      "headings": [
+        "Project Overview",
+        "Drivebase Frame"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1d/summary.mdx",
+      "title": "Summary",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1d/summary/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1d/summary.mdx",
+      "sha256": "8ca8a43d119f8e6ccfda3ec5be74196f1a8386e852eb2e384ca7c4c5c5846f06",
+      "words_approx": 135,
+      "headings": [
+        "Summary"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1d/top-down-design.mdx",
+      "title": "Top Down Design",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1d/top-down-design/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1d/top-down-design.mdx",
+      "sha256": "ca8f4f459e5d59c37761d6b81e574d3b34eb55ba924da896b3754f3a524a2b79",
+      "words_approx": 460,
+      "headings": [
+        "Top Down Design Methodology",
+        "Main Layout Sketch",
+        "Origin Placement and Origin Cube"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1d/top-level-assembly.mdx",
+      "title": "Top Level Assembly",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1d/top-level-assembly/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1d/top-level-assembly.mdx",
+      "sha256": "e81ad66c6a87a053f3b332d810ca1f9360970a2e8a1d29b5646d6efc0d431b1f",
+      "words_approx": 301,
+      "headings": [
+        "Top Level Robot Assembly",
+        "Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/battery-mounting.mdx",
+      "title": "Battery Mounting",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/battery-mounting/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/battery-mounting.mdx",
+      "sha256": "8cc56f8a786885a88c4bbcc36cb4947c5edc54e70f1f34d164ef77de15f12e68",
+      "words_approx": 217,
+      "headings": [
+        "Battery Mounting",
+        "Battery Placement",
+        "Battery Holder"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/electronics.mdx",
+      "title": "Electronics",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/electronics/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/electronics.mdx",
+      "sha256": "321842c4deb30d85d719df2a607bd52af7acbac8aec0241e0dc799f7e53f11c7",
+      "words_approx": 464,
+      "headings": [
+        "Electronics Mounting",
+        "Electronic Components"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/exercise1.mdx",
+      "title": "Exercise 1: Battery Holder",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/exercise1/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/exercise1.mdx",
+      "sha256": "a3d380585188ac76662fec3213a9f904419547d43230e613821049edfdd7ee1d",
+      "words_approx": 192,
+      "headings": [
+        "Exercise 1: Battery Holder",
+        "Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/exercise2.mdx",
+      "title": "Exercise 2: Mounting Electronics",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/exercise2/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/exercise2.mdx",
+      "sha256": "968f9e4fe0acb2fc949669f089bf43b4bcc8318db2230d3a276c3cf4032e5056",
+      "words_approx": 465,
+      "headings": [
+        "Exercise 2: Mounting Electronics",
+        "Bellypan Mounting Instructions",
+        "Robot Signal Light (RSL)",
+        "Radio"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/exercise3.mdx",
+      "title": "Exercise 3: Bellypan Pocketing",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/exercise3/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/exercise3.mdx",
+      "sha256": "a5764269366c32b932d39c7dd74e762af0d30f1626378d99ee3842ecbd5aa07b",
+      "words_approx": 268,
+      "headings": [
+        "Exercise 3: Bellypan Pocketing",
+        "Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/exercise4.mdx",
+      "title": "Exercise 4: Bumpers",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/exercise4/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/exercise4.mdx",
+      "sha256": "9ff7109553aad0151bdbacceaa422e05803ae7f578cf206a8a2c0b4b29b479fb",
+      "words_approx": 377,
+      "headings": [
+        "Exercise 4: Bumpers",
+        "Bumper Model",
+        "Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/exercise5.mdx",
+      "title": "Exercise 5: Bumper Mounting",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/exercise5/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/exercise5.mdx",
+      "sha256": "0fbd13aa02e8a1360efbadcd613acdd7a5ba8f1115b8c2cdf4b6edd2c29d787d",
+      "words_approx": 280,
+      "headings": [
+        "Exercise 5: Bumper Mounting",
+        "Instructions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/introduction.mdx",
+      "title": "Subsystem Workflow Introduction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/introduction.mdx",
+      "sha256": "972e487a873596d193d65820064fa4f0bf6d6e57ecacdeb6dbea206696e225bf",
+      "words_approx": 167,
+      "headings": [
+        "Introduction",
+        "Subsystem Workflow"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/project-overview.mdx",
+      "title": "Project Overview",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/project-overview/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/project-overview.mdx",
+      "sha256": "9aca4769ca25b20cb412bef99a2cccb5b8fc65e6588dbee9593f4dd366ff3537",
+      "words_approx": 348,
+      "headings": [
+        "Project Overview"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/1e/review-summary.mdx",
+      "title": "Review & Summary",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/1e/review-summary/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/1e/review-summary.mdx",
+      "sha256": "f749ec808e09fcfc6cd8fec0ed44a86a0185ff46c9399614097feab547d7dc90",
+      "words_approx": 274,
+      "headings": [
+        "Review",
+        "Summary"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage1/introduction.mdx",
+      "title": "Course Introduction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage1/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage1/introduction.mdx",
+      "sha256": "27528c964b6023fa73dd87251a58f0cee337eadcfcb077ca7072f4b49e6452a5",
+      "words_approx": 342,
+      "headings": [
+        "Learning Intentions",
+        "Copying and Improving In-Season"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/assembly.mdx",
+      "title": "Assembly",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/assembly/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/assembly.mdx",
+      "sha256": "e12d44c01c0dbbd3d6ad7b93155848dcd2a5a1280c0d4c03b96031fc1d7e313b",
+      "words_approx": 78,
+      "headings": [
+        "Assembly"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/ball-trajectory.mdx",
+      "title": "Ball Trajectory",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/ball-trajectory/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/ball-trajectory.mdx",
+      "sha256": "7971f5052f24662473b79f5f84df3bfb9a9c77038f49fb3acb1220601fa49ebe",
+      "words_approx": 162,
+      "headings": [
+        "Ball Trajectory",
+        "Reference Design",
+        "Trajectory Calculator"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/compression-wrap.mdx",
+      "title": "Compression & Wrap",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/compression-wrap/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/compression-wrap.mdx",
+      "sha256": "bdf92298e6d231642ded29122e0d8a0cf533d461296d71e35aee378938df8cd5",
+      "words_approx": 386,
+      "headings": [
+        "Compression & Wrap",
+        "Compression",
+        "Wrap",
+        "Reference Design",
+        "Feeder"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/exit-velocity.mdx",
+      "title": "Exit Velocity",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/exit-velocity/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/exit-velocity.mdx",
+      "sha256": "3056c62e56fdda4830426d124552e1c1c4d7af5129b2f45227959f705f741d9c",
+      "words_approx": 436,
+      "headings": [
+        "Exit Velocity",
+        "Surface Speed",
+        "Inertia",
+        "Reference Design",
+        "Flywheel Calculator"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/friction-efficiency.mdx",
+      "title": "Friction & Efficiency",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/friction-efficiency/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/friction-efficiency.mdx",
+      "sha256": "cb690ea45a821e19c41e966ff22f82e93d22a11c317176b5ebf99f6ef908b43f",
+      "words_approx": 352,
+      "headings": [
+        "Friction & Efficiency",
+        "Minimizing Friction",
+        "Belt Tension",
+        "Spacers",
+        "Shaft Support",
+        "Bent Shafts",
+        "Tolerance Stackup",
+        "Larger Wheels",
+        "Last Resort"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/introduction.mdx",
+      "title": "Basic Shooter Introduction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/introduction.mdx",
+      "sha256": "afdbf61f2b9792c97c586e0316d5f4e892df1eda368d66854ab7ef6cc0053d3c",
+      "words_approx": 267,
+      "headings": [
+        "Shooter Mechanisms",
+        "Flywheel Shooters"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/layout-sketch.mdx",
+      "title": "Layout Sketch",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/layout-sketch/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/layout-sketch.mdx",
+      "sha256": "8f2ffee0479bcd55f6153acdeb8b6becf4575fe5186491ee5f949d297107750d",
+      "words_approx": 561,
+      "headings": [
+        "Layout Sketch",
+        "Initial Layout",
+        "Shooter Layout",
+        "Feeder"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/part-studio.mdx",
+      "title": "Part Studio",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/part-studio/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/part-studio.mdx",
+      "sha256": "bb583ccbcd2dfba527b1a159f3988bef87afa348defe9d5178c13f46a0e226e3",
+      "words_approx": 342,
+      "headings": [
+        "Part Studio",
+        "Structure",
+        "Power Transmission",
+        "Finishing Steps"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/project-overview.mdx",
+      "title": "Project Overview",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/project-overview/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/project-overview.mdx",
+      "sha256": "35ec8a7e960484d7494dd065bf66b43239ca2996df33d0d96f20943b44285a5b",
+      "words_approx": 206,
+      "headings": [
+        "Project Overview",
+        "Engineering Concepts & Decisions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/spin-control.mdx",
+      "title": "Spin Control",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/spin-control/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/spin-control.mdx",
+      "sha256": "b1b8f8d4aad36460cf22fb005b1a37445431d25f71373ee2f76297140c478710",
+      "words_approx": 364,
+      "headings": [
+        "Spin Control",
+        "Spin",
+        "Back Rollers"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/structure-rigidity.mdx",
+      "title": "Structure & Rigidity",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/structure-rigidity/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/structure-rigidity.mdx",
+      "sha256": "c942c8a21c74692dfb81ab551072e357c74e67916f491b6495cf658ded9974cc",
+      "words_approx": 134,
+      "headings": [
+        "Rigidity",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2a/summary.mdx",
+      "title": "Summary",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2a/summary/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2a/summary.mdx",
+      "sha256": "f8b034f04a4ef590a9bf9bd18e6aea8e3c3b7676c991fbacd3b2d78f8aa634f1",
+      "words_approx": 174,
+      "headings": [
+        "Summary"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/assembly.mdx",
+      "title": "Assembly",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/assembly/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/assembly.mdx",
+      "sha256": "5633f9d6bf88381af9d5d1b470d2f69d5dafda0b2b01add04d26810a10ae2f59",
+      "words_approx": 260,
+      "headings": [
+        "Assembly",
+        "Base Assembly",
+        "Arm Assembly",
+        "Top Level Assembly"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/backlash.mdx",
+      "title": "Backlash",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/backlash/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/backlash.mdx",
+      "sha256": "63edcd08f91105540b5a0bc385715dcba66b47ab51e3234934bcc522ff5d5c78",
+      "words_approx": 212,
+      "headings": [
+        "Backlash",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/friction.mdx",
+      "title": "Friction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/friction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/friction.mdx",
+      "sha256": "4c06360e262c5089f90c341b00a45398aa03b86de38dfb833946f41dca73b1e2",
+      "words_approx": 161,
+      "headings": [
+        "Friction",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/introduction.mdx",
+      "title": "Dead Axle Pivot Introduction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/introduction.mdx",
+      "sha256": "8585a6cfaaa6d73d2d5cb59b1776f7fb7a2510a65d55d498b509bb74178edf25",
+      "words_approx": 177,
+      "headings": [
+        "Dead Axle Pivot",
+        "Engineering Concepts & Decisions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/layout-sketch.mdx",
+      "title": "Layout Sketch",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/layout-sketch/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/layout-sketch.mdx",
+      "sha256": "0828e4aac696b438860e7cf3a0883563fb94817d0172d12ed57faf14fefe787c",
+      "words_approx": 103,
+      "headings": [
+        "Layout Sketch"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/part-studio.mdx",
+      "title": "Part Studio",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/part-studio/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/part-studio.mdx",
+      "sha256": "d720e919a30fbbbae2be16345101596c4859ec21f072456a7abed4f205ee6295",
+      "words_approx": 150,
+      "headings": [
+        "Part Studio"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/power-transmission.mdx",
+      "title": "Power Transmission",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/power-transmission/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/power-transmission.mdx",
+      "sha256": "cfbd61db67cb23d07a79f5944b12fa58175e42bc696022803570795054401cfd",
+      "words_approx": 119,
+      "headings": [
+        "Power Transmission",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/project-overview.mdx",
+      "title": "Project Overview",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/project-overview/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/project-overview.mdx",
+      "sha256": "8b02b808e1d1e242af7766e7c72127630ebd28ef8144eae23b27152659584cb0",
+      "words_approx": 181,
+      "headings": [
+        "Project Overview",
+        "Engineering Concepts & Decisions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/strength.mdx",
+      "title": "Strength",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/strength/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/strength.mdx",
+      "sha256": "8edb683cbd94af6c0e75aa92593f1ee4324e103194923b849745e7d1ffbd50f0",
+      "words_approx": 197,
+      "headings": [
+        "Strength",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/summary.mdx",
+      "title": "Summary",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/summary/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/summary.mdx",
+      "sha256": "fa7aea363471e9aa2eff3e98fbcd5d8552139de175a0f3394429c0152699a515",
+      "words_approx": 163,
+      "headings": [
+        "Summary"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2b/tensioning.mdx",
+      "title": "Tensioning",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2b/tensioning/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2b/tensioning.mdx",
+      "sha256": "3c94a5e9584efb148e5ef267239e4d143acdb95b53a4e8f9b990a4d9ac706820",
+      "words_approx": 157,
+      "headings": [
+        "Tensioning",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/assembly.mdx",
+      "title": "Assembly",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/assembly/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/assembly.mdx",
+      "sha256": "aea2b0560ff28c72f76e96adb751cf90ca9b0a68c13a4f433a22434d58c3a9fd",
+      "words_approx": 205,
+      "headings": [
+        "Assembly",
+        "Base Assembly",
+        "Arm Assembly",
+        "Top Level Assembly"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/intake-golden-rules.mdx",
+      "title": "Intake Golden Rules",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/intake-golden-rules/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/intake-golden-rules.mdx",
+      "sha256": "a91513fd512f9f9b47aef226f266eb1f67ded47545d3a67811418d9706b692fb",
+      "words_approx": 164,
+      "headings": [
+        "Intake Golden Rules",
+        "The Rules",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/introduction.mdx",
+      "title": "Slapdown Intake Introduction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/introduction.mdx",
+      "sha256": "bbc8dd6d7b9ccef401a7406bafaa68483cdb2ad4ed2c4b5b6d1225344fadaf0e",
+      "words_approx": 205,
+      "headings": [
+        "Over-the-Bumper Intakes",
+        "Slapdown Intake"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/layout-sketch.mdx",
+      "title": "Layout Sketch",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/layout-sketch/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/layout-sketch.mdx",
+      "sha256": "fe47087f3dbe1af938565046844a02150456a23ac82b9964dcb3b2a589fee78f",
+      "words_approx": 124,
+      "headings": [
+        "Layout Sketch"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/part-studio.mdx",
+      "title": "Part Studio",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/part-studio/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/part-studio.mdx",
+      "sha256": "514435a3e16421a9d38042b6b3234b1e63af62f6193e471274dbeb117b94d7e2",
+      "words_approx": 180,
+      "headings": [
+        "Part Studio"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/pivot.mdx",
+      "title": "Pivot",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/pivot/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/pivot.mdx",
+      "sha256": "2349b6f3ea98803d2ba81bf745a1a43ccf67b979adbed95b99e2899ef88416a0",
+      "words_approx": 256,
+      "headings": [
+        "Pivot",
+        "Gear Ratio",
+        "Pivot Design",
+        "Backlash and Sensor Feedback"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/project-overview.mdx",
+      "title": "Project Overview",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/project-overview/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/project-overview.mdx",
+      "sha256": "4179bbdd2a9fd8606d397b796968bd0f60774fce2878f8622afe1b343e70b51b",
+      "words_approx": 136,
+      "headings": [
+        "Project",
+        "Engineering Concepts & Decisions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/robustness.mdx",
+      "title": "Robustness",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/robustness/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/robustness.mdx",
+      "sha256": "22689a6ad1c49d9c70926995dc68b05d96888f92e175d736bd42da5ad87f50f9",
+      "words_approx": 160,
+      "headings": [
+        "Robustness",
+        "Main Structure",
+        "Intake Width"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/rollers.mdx",
+      "title": "Rollers",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/rollers/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/rollers.mdx",
+      "sha256": "463cd8c98a4b42e434752f2f1dc77f001e6cb2537184d1875172b20711469dce",
+      "words_approx": 263,
+      "headings": [
+        "Rollers",
+        "Dead Axle Rollers",
+        "Roller Locations"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/summary.mdx",
+      "title": "Summary",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/summary/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/summary.mdx",
+      "sha256": "d0472d43cbe6df8258ba2a6abc6a4d265904a4fc52bb294191dc97eed374012b",
+      "words_approx": 153,
+      "headings": [
+        "Summary"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2c/zombie-axles.mdx",
+      "title": "Zombie Axles",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2c/zombie-axles/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2c/zombie-axles.mdx",
+      "sha256": "cf5b2fb2c829dbff76e828eb3df135208618eb324713c7d34da676321561e955",
+      "words_approx": 101,
+      "headings": [
+        "Zombie Axles"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/assembly.mdx",
+      "title": "Assembly",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/assembly/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/assembly.mdx",
+      "sha256": "f6662f0bab7c8cf7f2447330b4314bfd2ae4cfe8236c18c781512e54561a15e2",
+      "words_approx": 226,
+      "headings": [
+        "Assembly",
+        "Base Stage Assembly",
+        "First Stage Assembly",
+        "Carriage Assembly",
+        "Top Level Assembly"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/cable-clamp.mdx",
+      "title": "Cable Clamp",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/cable-clamp/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/cable-clamp.mdx",
+      "sha256": "843e085dd0958063cacd38c0b58e34044da57f90a351f95e981207ee7ea5248a",
+      "words_approx": 157,
+      "headings": [
+        "Cable Clamp",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/cable-ends.mdx",
+      "title": "Cable Ends",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/cable-ends/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/cable-ends.mdx",
+      "sha256": "6474d95daba81b2122292361f358e3d8834d9566923b51e14def55913e665f0d",
+      "words_approx": 278,
+      "headings": [
+        "Cable Ends",
+        "Cable Tension"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/chain-attachment.mdx",
+      "title": "Chain Attachment",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/chain-attachment/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/chain-attachment.mdx",
+      "sha256": "20c5dd229bb3e1bde43af09b723d0ac4ba6522d8fb0334de2e9d4d532564cf35",
+      "words_approx": 96,
+      "headings": [
+        "Chain Attachment",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/drive-system.mdx",
+      "title": "Drive System",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/drive-system/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/drive-system.mdx",
+      "sha256": "7ea8cb7aad2067a8229a0d3b0f0314867002b9f8e127d7583db8cf3b40ce4968",
+      "words_approx": 74,
+      "headings": [
+        "Drive System",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/elevator-blocks.mdx",
+      "title": "Elevator Blocks",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/elevator-blocks/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/elevator-blocks.mdx",
+      "sha256": "164fb9a62c98889de600d45fe242ca7a41c8db9922551241d12ce77d49d706e0",
+      "words_approx": 135,
+      "headings": [
+        "Elevator Blocks",
+        "COTS Elevator Blocks",
+        "Reference Design"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/introduction.mdx",
+      "title": "Cascade Elevator Introduction",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/introduction/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/introduction.mdx",
+      "sha256": "18836afd587689ebceaac82c50a835bc5556145fe6db8d8c25f8364320941e2a",
+      "words_approx": 466,
+      "headings": [
+        "Elevators",
+        "Utilizing COTS Components",
+        "Cascade Elevator",
+        "Comparison"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/layout-sketch.mdx",
+      "title": "Layout Sketch",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/layout-sketch/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/layout-sketch.mdx",
+      "sha256": "fbccf9d97ce7b4a878f88ca210849dd02f1911195fa32c0a82c9490b5a2e9111",
+      "words_approx": 268,
+      "headings": [
+        "Layout Sketches"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/part-studio.mdx",
+      "title": "Part Studio",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/part-studio/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/part-studio.mdx",
+      "sha256": "d2aaec290df5b8e8e3053a87c6069a4bb5af42b902514db1f254535a69572c3a",
+      "words_approx": 545,
+      "headings": [
+        "Part Studio"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/project-overview.mdx",
+      "title": "Project Overview",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/project-overview/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/project-overview.mdx",
+      "sha256": "ecb3cbe9ea0e1dfb7ccfe3fd1ad52f171cceb1b413c3fd6cb0e8e7a43b4bd05a",
+      "words_approx": 164,
+      "headings": [
+        "Project Overview",
+        "Engineering Concepts & Decisions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/rigging.mdx",
+      "title": "Rigging",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/rigging/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/rigging.mdx",
+      "sha256": "0bf4f99a229c08530a58163beaf0f9c8ecbd5f668a33bc150221f79d5993d6a4",
+      "words_approx": 87,
+      "headings": [
+        "Rigging"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/learning-course/stage2/2d/summary.mdx",
+      "title": "Summary",
+      "url_candidate": "https://frcdesign.org/learning-course/stage2/2d/summary/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/learning-course/stage2/2d/summary.mdx",
+      "sha256": "d8d3fef30a0ea3f8d4dc14b371713224513a020825e2fd97b998a97e478ce586",
+      "words_approx": 162,
+      "headings": [
+        "Summary"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/drivebase/swerve/2910_2023_dt.mdx",
+      "title": "2910 Charged Up Drivebase",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/drivebase/swerve/2910_2023_dt/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/drivebase/swerve/2910_2023_dt.mdx",
+      "sha256": "72b45beca295eda5dbe0c4f5020f05841323b41b4079b9c5c45829fe87c5eba0",
+      "words_approx": 306,
+      "headings": [
+        "Links",
+        "Behind the Design",
+        "Rigidity",
+        "Electrical"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/drivebase/swerve/index.mdx",
+      "title": "Swerve Drivebases",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/drivebase/swerve/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/drivebase/swerve/index.mdx",
+      "sha256": "3e479d5574a64951be995fa31534a8d31a8af598002fad70dd0e6787e8bda959",
+      "words_approx": 289,
+      "headings": [
+        "In-depth Writeups",
+        "CAD References"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/elevator/cascade/index.mdx",
+      "title": "Cascade Elevators",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/elevator/cascade/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/elevator/cascade/index.mdx",
+      "sha256": "d681ca00abee9f0944cc4a62d9c85754df21a033928d5016d493b5ec8b87cbae",
+      "words_approx": 186,
+      "headings": [
+        "CAD References"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/elevator/continuous/index.mdx",
+      "title": "Continuous Elevators",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/elevator/continuous/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/elevator/continuous/index.mdx",
+      "sha256": "e7fe28712cad2386a65c17a1bb2ebd334233b666d47cdf4fde5344031a9a5edd",
+      "words_approx": 114,
+      "headings": [
+        "CAD References"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/index.mdx",
+      "title": "Mechanism Examples",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/index.mdx",
+      "sha256": "0ff35717bc2cb1dba47502a2843ee763c5cd49848f35f7f883b81ebea33d0ffd",
+      "words_approx": 25,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/intake/linkage/index.mdx",
+      "title": "Linkage Intakes",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/intake/linkage/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/intake/linkage/index.mdx",
+      "sha256": "613f7c4e1cb6a27206a5c60b0d1cf779b7d08ae21b0d39a96e3a5da539c94ed7",
+      "words_approx": 140,
+      "headings": [
+        "CAD References"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/intake/slapdown/index.mdx",
+      "title": "Pivoting Intakes",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/intake/slapdown/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/intake/slapdown/index.mdx",
+      "sha256": "fd8b28abea682ce2b2dd330b5cdb5c182743db936a82483583b23f035248f310",
+      "words_approx": 228,
+      "headings": [
+        "CAD References"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/pivots/2910_2023_pivot.mdx",
+      "title": "2910's 2023 Dead Axle Pivot",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/pivots/2910_2023_pivot/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/pivots/2910_2023_pivot.mdx",
+      "sha256": "569e04561c0757eeb97ab7cd34debbc12846ba2c27311158eb20abe648f1fcb0",
+      "words_approx": 388,
+      "headings": [
+        "Links",
+        "Behind the Design",
+        "Mechanical Link",
+        "Chain Tensioning",
+        "Triangular Superstructure"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/pivots/6328_2023_pivot.mdx",
+      "title": "6328 A-Frame Pivot 2023",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/pivots/6328_2023_pivot/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/pivots/6328_2023_pivot.mdx",
+      "sha256": "df142cca137d8d0edada327f51620dfa99a5bf9072d358e056ac99cac38eb0cd",
+      "words_approx": 1428,
+      "headings": [
+        "Links",
+        "Behind the Design",
+        "Force Breakdown on Pivot Arm",
+        "**The Improved Design**",
+        "Custom Gearbox",
+        "The Second Joint",
+        "See this Pivot in Action"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/pivots/index.mdx",
+      "title": "Pivots",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/pivots/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/pivots/index.mdx",
+      "sha256": "36af3a9ce1261802fa08ec539c551793a217e8cf3ebf00d2943e35ccbede316b",
+      "words_approx": 216,
+      "headings": [
+        "In-depth Writeups",
+        "CAD References"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/shooter/1678_2022_shooter.mdx",
+      "title": "1678's Rapid React Shooter",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/shooter/1678_2022_shooter/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/shooter/1678_2022_shooter.mdx",
+      "sha256": "13b8876b6a2024c9f31eed5e4395e5ddc3113759f675499034ce16b86aa709ba",
+      "words_approx": 451,
+      "headings": [
+        "Links",
+        "Behind the Design",
+        "See this Shooter in Action"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/mechanism-examples/shooter/index.mdx",
+      "title": "Shooters",
+      "url_candidate": "https://frcdesign.org/mechanism-examples/shooter/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/mechanism-examples/shooter/index.mdx",
+      "sha256": "7c7520b194dee1b7c06dd02e3ed8fc70295141340f5420132b74aa6d1364c4bc",
+      "words_approx": 246,
+      "headings": [
+        "In-depth Writeups",
+        "CAD References"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/design-challenges/index.mdx",
+      "title": "Design Challenges",
+      "url_candidate": "https://frcdesign.org/resources/design-challenges/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/design-challenges/index.mdx",
+      "sha256": "117a0c07910a5887a66781bd8109689a21a2725de74a2dc659e027de6685b4aa",
+      "words_approx": 248,
+      "headings": [
+        "Scoring",
+        "Bonuses",
+        "Leaderboards"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/design-challenges/week1.mdx",
+      "title": "Design Challenge #1: Swerve Drivebase",
+      "url_candidate": "https://frcdesign.org/resources/design-challenges/week1/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/design-challenges/week1.mdx",
+      "sha256": "f6f9d5e2bd227dab107df501245db8989fe5cc464ca364082753c49b12377f50",
+      "words_approx": 276,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/design-challenges/week2.mdx",
+      "title": "Design Challenge #2: Gearboxes",
+      "url_candidate": "https://frcdesign.org/resources/design-challenges/week2/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/design-challenges/week2.mdx",
+      "sha256": "1face6d0c301f29da05ce9b56fe8f202945fab6d7df54530fcef75fd99753412",
+      "words_approx": 373,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/design-challenges/week3.mdx",
+      "title": "Design Challenge #3: Ball Shooter",
+      "url_candidate": "https://frcdesign.org/resources/design-challenges/week3/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/design-challenges/week3.mdx",
+      "sha256": "87285ef469f4bc832c304872e0b6edc72b870874bcbc2e44557d731d82ab1361",
+      "words_approx": 469,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/design-challenges/week4.mdx",
+      "title": "Design Challenge #4: Intake",
+      "url_candidate": "https://frcdesign.org/resources/design-challenges/week4/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/design-challenges/week4.mdx",
+      "sha256": "b082a2b1efb4717575c04a0a74e9ea3a357588ec99c63e40e6f27a6fdd264d7a",
+      "words_approx": 280,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/design-challenges/week5.mdx",
+      "title": "Design Challenge #5: Tilt Shift",
+      "url_candidate": "https://frcdesign.org/resources/design-challenges/week5/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/design-challenges/week5.mdx",
+      "sha256": "ffd63342d704144cb68f4d9f80d6dae49bd7010f1c87f2636cb95668bd251ba0",
+      "words_approx": 239,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/featurescript-help.mdx",
+      "title": "Featurescript Help",
+      "url_candidate": "https://frcdesign.org/resources/featurescript-help/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/featurescript-help.mdx",
+      "sha256": "079b423f1a380e701c124692e98f0ded863940286c0ae15175521c0edcecf9c2",
+      "words_approx": 364,
+      "headings": [
+        "How To Install Featurescripts",
+        "Troubleshooting and Updating Featurescripts"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/featurescripts.mdx",
+      "title": "List of Featurescripts",
+      "url_candidate": "https://frcdesign.org/resources/featurescripts/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/featurescripts.mdx",
+      "sha256": "a080338668fab139ee344cff5c690185312c89c737bd55f00c1142ca1ec781b6",
+      "words_approx": 1484,
+      "headings": [
+        "Recommended",
+        "Bundles",
+        "Other",
+        "Structure",
+        "Power Transmissions",
+        "Pocketing",
+        "Manufacturing",
+        "Onshape Functionality Extensions"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/frcdesignlib.mdx",
+      "title": "FRCDesignLib",
+      "url_candidate": "https://frcdesign.org/resources/frcdesignlib/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/frcdesignlib.mdx",
+      "sha256": "c92a61af802426ebda061b99c9e1cdd05cb3f6e2cd7f2520f01201dabfabea77",
+      "words_approx": 248,
+      "headings": [
+        "Installing FRCDesignApp",
+        "Contributing to the Library"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/glossary.mdx",
+      "title": "Welcome to the Glossary",
+      "url_candidate": "https://frcdesign.org/resources/glossary/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/glossary.mdx",
+      "sha256": "233ffa9389a5d3e63cd58f64e8f655102b2fa557be4031ab3f9b81d8271e8f04",
+      "words_approx": 774,
+      "headings": [
+        "Why this exists.",
+        "Terms"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/index.mdx",
+      "title": "Resources",
+      "url_candidate": "https://frcdesign.org/resources/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/index.mdx",
+      "sha256": "d8bc0fb408f3688f5375cb3bda4bd510ee327fc691cd44dccfb5326517e29bde",
+      "words_approx": 163,
+      "headings": [],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/resources/krayoncad.mdx",
+      "title": "KrayonCAD",
+      "url_candidate": "https://frcdesign.org/resources/krayoncad/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/resources/krayoncad.mdx",
+      "sha256": "18984b15bee71963e8c5d5c9d667a180bbca0610394ab4a92d47992b4fbb7e4d",
+      "words_approx": 314,
+      "headings": [
+        "What is KrayonCAD?",
+        "Why should I use KrayonCAD?",
+        "How do I use KrayonCAD?",
+        "Credit"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    },
+    {
+      "path": "src/content/docs/test-content-figure/index.mdx",
+      "title": "ContentFigure Test Page",
+      "url_candidate": "https://frcdesign.org/test-content-figure/",
+      "source": "https://github.com/frcdesign/FRCDesign.org/blob/bf97fe228fef7d01330de1d6f56cfab79e9ed057/src/content/docs/test-content-figure/index.mdx",
+      "sha256": "b9cf1f12805e4b778178d7dac20eea7556c5ef88423fe3895dfb867e2b538984",
+      "words_approx": 522,
+      "headings": [
+        "ContentFigure Component - Feature Coverage",
+        "1. Source Types",
+        "1a. Glob Import (ImageMetadata)",
+        "1b. String Path (Loose Matching)",
+        "1c. YouTube - Watch URL (`youtube.com/watch?v=`)",
+        "1d. YouTube - Short URL (`youtu.be/`)",
+        "1e. YouTube - Embed URL (`youtube.com/embed/`)",
+        "2. Width",
+        "2a. Default Width (100%)",
+        "2b. Percentage Width (60%)",
+        "2c. Pixel Width (400px)",
+        "3. Border",
+        "3a. No Border (Default)",
+        "3b. Boolean Border (Default Style - 5px solid)",
+        "3c. Custom Border String (Dashed Accent)",
+        "3d. Custom Border String (Solid Red)",
+        "3e. YouTube Video with Border",
+        "4. Alignment",
+        "4a. Center (Default)",
+        "4b. Left Aligned",
+        "4c. Right Aligned",
+        "4d. YouTube - Left Aligned",
+        "4e. YouTube - Right Aligned",
+        "5. Caption",
+        "5a. No Caption",
+        "5b. Plain Text Caption",
+        "5c. Caption with Markdown (Bold, Italic)",
+        "5d. Caption with a Link",
+        "6. Custom Class (`class` Prop)",
+        "7. Combined Options",
+        "7a. Width + Border + Left Alignment + Caption",
+        "7b. Width + Custom Border + Right Alignment + Markdown Caption",
+        "7c. YouTube - Width + Border + Caption"
+      ],
+      "status_markers": [],
+      "coverage": "indexed; detailed review only where named in coverage.md"
+    }
+  ]
+}
