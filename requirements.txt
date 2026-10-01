@@ -244,7 +244,7 @@ typing-extensions==4.16.0
     #   jupyter-client
     #   pint
     #   robotpy-commands-v2
-wcwidth==0.8.4
+wcwidth==0.9.1
     # via prompt-toolkit
 widgetsnbextension==4.0.16
     # via ipywidgets
