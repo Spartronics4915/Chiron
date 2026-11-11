@@ -10,7 +10,7 @@ on:
 # E.g., if your site lives at `https://mydomain.org/myproject`, set `BASE_URL=/myproject`.
 # If, instead, your site lives at the root of the domain, at `https://mydomain.org`, set `BASE_URL=''`.
 env:
-  BASE_URL: /${{ github.event.repository.name }}
+  BASE_URL: /
 
 permissions:
   contents: read
