@@ -39,7 +39,8 @@ if __name__ == "__main__":
         robot = f"examples/course/intake_mechanism/{version}/robot.py"
         run(f"robot-{version}", [python, "-m", "robotpy", "--main",
             robot, "test", "--builtin", "-j", "1", "--", "-q"])
-    for label, base in (("root", ""), ("pages", "/")):
+    pages_base = f"/{os.environ.get('GITHUB_REPOSITORY', 'Spartronics4915/Chiron').rsplit('/', 1)[-1]}"
+    for label, base in (("root", ""), ("pages", pages_base)):
         clear_generated("html")
         clear_generated("site")
         env = dict(os.environ, BASE_URL=base)
