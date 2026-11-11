@@ -1,4 +1,4 @@
-"""Run the same checks locally and in CI; leave a validated /Chiron artifact."""
+"""Run the same checks locally and in CI; leave a validated / artifact."""
 from pathlib import Path
 import os
 import shutil
@@ -38,11 +38,11 @@ if __name__ == "__main__":
     for version in ("basic", "solution"):
         run(f"robot-{version}", [python, "-m", "robotpy", "--main",
             f"examples/mechanism/{version}/robot.py", "test", "--builtin", "-j", "1", "--", "-q"])
-    for label, base in (("root", ""), ("pages", "/Chiron")):
+    for label, base in (("root", ""), ("pages", "/")):
         clear_generated("html")
         clear_generated("site")
         env = dict(os.environ, BASE_URL=base)
         run(f"build-{label}", ["node", "node_modules/mystmd/dist/myst.cjs", "build",
                                "--html", "--strict", "--ci"], env)
         run(f"links-{label}", [python, "tools/check_links.py", "--base", base])
-    print("Validation complete. Preview with: python tools/preview.py --base /Chiron")
+    print("Validation complete. Preview with: python tools/preview.py --base /")
