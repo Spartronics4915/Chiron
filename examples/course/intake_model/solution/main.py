@@ -1,4 +1,4 @@
-from examples.course.intake_model.solution.intake import Intake
+from intake import Intake
 
 
 class Robot:
