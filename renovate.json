@@ -1,0 +1,16 @@
+{
+    "$schema": "https://renovatebot.com",
+    "extends": ["config:recommended"],
+    "automerge": true,
+    "automergeType": "branch",
+    "platformAutomerge": false,
+    "ignoreTests": false,
+    "packageRules": [
+      {
+        "matchPackageNames": ["*"],
+        "groupName": "all dependencies",
+        "groupSlug": "all"
+      }
+    ]
+  }
+  
