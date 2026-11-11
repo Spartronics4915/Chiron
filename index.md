@@ -12,7 +12,5 @@ computer and work toward a mechanism you can program, test, and explain yourself
 Set up your tools, learn Python, and build an intake subsystem in simulation.
 :::
 
-[Teaching notes](educators/index.md) cover how we write lessons and share what
-we've learned with other students.
 Hardware setup guides and quick library references are being held for later work;
 this version focuses on the course.

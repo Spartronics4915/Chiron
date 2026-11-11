@@ -17,7 +17,5 @@ uv run python tools/validate.py
 npm start
 ```
 
-See [contributing](contributing/index.md), [approved design](design/course-plan.md),
-[current decisions](design/decisions.md), and [research](research/README.md).
-Hardware guides and library references are deferred. They should follow the
-physical-setup and library-usage examples on `temp`, not the abandoned generic draft.
+Course pages live under `course/`, with reusable example code under
+`examples/course/`. Hardware guides and library references are deferred.

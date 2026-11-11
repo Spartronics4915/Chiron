@@ -6,7 +6,7 @@ import json
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
-PUBLIC = ("course", "hardware", "reference", "educators", "contributing")
+PUBLIC = ("course", "hardware", "reference")
 
 
 def pages():
