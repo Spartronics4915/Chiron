@@ -21,27 +21,27 @@ comm==0.2.3
     #   ipywidgets
 contourpy==1.4.0
     # via matplotlib
-cryptography==50.0.2 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
+cryptography==50.0.1 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
     # via paramiko
 cycler==0.12.1
     # via matplotlib
 debugpy==1.8.22
     # via ipykernel
-executing==2.3.0
+executing==2.2.1
     # via stack-data
 flexcache==0.3
     # via pint
 flexparser==0.4
     # via pint
-fonttools==4.68.0
+fonttools==4.66.0
     # via matplotlib
-iniconfig==2.3.1
+iniconfig==2.3.0
     # via pytest
 invoke==3.0.3 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
     # via paramiko
-ipykernel==7.4.0
+ipykernel==7.3.0
     # via chiron-course
-ipython==9.18.1
+ipython==9.17.1
     # via
     #   ipykernel
     #   ipywidgets
@@ -49,7 +49,7 @@ ipython-pygments-lexers==1.1.1
     # via ipython
 ipywidgets==8.1.9
     # via chiron-course
-jedi==0.20.1
+jedi==0.20.0
     # via ipython
 jupyter-client==8.10.0
     # via ipykernel
@@ -67,11 +67,11 @@ matplotlib-inline==0.2.2
     # via
     #   ipykernel
     #   ipython
-msvc-runtime==14.51.36231 ; sys_platform == 'win32'
+msvc-runtime==14.44.35112 ; sys_platform == 'win32'
     # via robotpy-native-wpiutil
-nest-asyncio2==1.7.4
+nest-asyncio2==1.7.2
     # via ipykernel
-numpy==2.5.4
+numpy==2.5.3
     # via
     #   chiron-course
     #   contourpy
@@ -82,7 +82,7 @@ packaging==26.3
     #   matplotlib
     #   pytest
     #   robotpy-installer
-paramiko==5.1.0 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
+paramiko==5.0.0 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
     # via robotpy-installer
 parso==0.8.7
     # via jedi
@@ -90,15 +90,15 @@ pexpect==4.9.0 ; sys_platform != 'emscripten' and sys_platform != 'win32'
     # via ipython
 pillow==12.3.0
     # via matplotlib
-pint==0.26.2
+pint==0.26.1
     # via pyfrc
-pip==26.3 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
+pip==26.2.1 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
     # via robotpy-installer
-platformdirs==4.14.5
+platformdirs==4.12.0
     # via
     #   jupyter-core
     #   pint
-pluggy==1.7.0
+pluggy==1.6.0
     # via pytest
 prompt-toolkit==3.0.53
     # via ipython
@@ -110,7 +110,7 @@ ptyprocess==0.7.0 ; sys_platform != 'emscripten' and sys_platform != 'win32'
     # via pexpect
 pure-eval==0.2.4
     # via stack-data
-pycparser==3.12 ; (implementation_name == 'pypy' and platform_machine == 'armv7l') or (implementation_name == 'pypy' and platform_machine == 'roborio') or (implementation_name != 'PyPy' and platform_machine != 'armv7l' and platform_machine != 'roborio' and platform_python_implementation != 'PyPy') or (implementation_name == 'pypy' and platform_python_implementation == 'PyPy')
+pycparser==3.0 ; (implementation_name == 'pypy' and platform_machine == 'armv7l') or (implementation_name == 'pypy' and platform_machine == 'roborio') or (implementation_name != 'PyPy' and platform_machine != 'armv7l' and platform_machine != 'roborio' and platform_python_implementation != 'PyPy') or (implementation_name == 'pypy' and platform_python_implementation == 'PyPy')
     # via cffi
 pyfrc==2026.0.3
     # via
@@ -132,7 +132,7 @@ pyntcore==2026.2.2
     #   wpilib
 pyparsing==3.3.3
     # via matplotlib
-pytest==9.2.0
+pytest==9.1.1
     # via
     #   chiron-course
     #   pyfrc
@@ -143,7 +143,7 @@ python-dateutil==2.9.0.post0
     # via
     #   jupyter-client
     #   matplotlib
-pyzmq==27.3.0
+pyzmq==27.2.0
     # via
     #   ipykernel
     #   jupyter-client
@@ -217,15 +217,15 @@ six==1.17.0
     # via python-dateutil
 stack-data==0.6.3
     # via ipython
-tomli==2.5.0
+tomli==2.4.1
     # via
     #   pyfrc
     #   robotpy-installer
-tomlkit==0.15.2 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
+tomlkit==0.15.1 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
     # via robotpy-installer
 toposort==1.10
     # via robotpy-wpilib-utilities
-tornado==6.6.1
+tornado==6.5.10
     # via
     #   ipykernel
     #   jupyter-client
@@ -244,7 +244,7 @@ typing-extensions==4.16.0
     #   jupyter-client
     #   pint
     #   robotpy-commands-v2
-wcwidth==0.9.4
+wcwidth==0.9.1
     # via prompt-toolkit
 widgetsnbextension==4.0.16
     # via ipywidgets
