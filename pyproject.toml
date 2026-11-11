@@ -7,11 +7,11 @@ dependencies = [
   "robotpy==2026.2.2",
   "robotpy-commands-v2==2026.2.2",
   "pyfrc==2026.0.3",
-  "pytest==9.1.1",
-  "ipykernel==7.3.0",
+  "pytest==9.2.0",
+  "ipykernel==7.4.0",
   "ipywidgets==8.1.9",
   "matplotlib==3.11.2",
-  "numpy==2.5.3",
+  "numpy==2.5.4",
 ]
 
 [dependency-groups]
@@ -20,7 +20,7 @@ docs = [
   "nbclient==0.11.0",
   "nbformat==5.11.1",
   "pyyaml==6.0.3",
-  "ruff==0.16.8",
+  "ruff==0.17.4",
 ]
 
 [tool.uv]
