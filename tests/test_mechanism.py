@@ -3,9 +3,9 @@ import commands2
 import hal
 import pytest
 from wpilib.simulation import DriverStationSim, pauseTiming, resumeTiming, stepTiming
-from examples.support.intake_io import IntakeSim
-from examples.mechanism.solution.intake_subsystem import Intake
-from examples.mechanism.solution.intake_commands import Acquire, Release, ManualIntake
+from examples.course.support.intake_io import IntakeSim
+from examples.course.intake_mechanism.solution.intake_subsystem import Intake
+from examples.course.intake_mechanism.solution.intake_commands import Acquire, Release, ManualIntake
 
 
 @pytest.fixture

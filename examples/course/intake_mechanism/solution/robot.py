@@ -1,9 +1,9 @@
 import commands2
 from commands2.button import Trigger
 import wpilib
-from examples.support.intake_io import IntakeSim
-from intake_subsystem import Intake
-from intake_commands import Acquire, Release, ManualIntake
+from examples.course.support.intake_io import IntakeSim
+from examples.course.intake_mechanism.solution.intake_subsystem import Intake
+from examples.course.intake_mechanism.solution.intake_commands import Acquire, Release, ManualIntake
 
 
 class Robot(commands2.TimedCommandRobot):

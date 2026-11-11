@@ -61,7 +61,7 @@ the starting version, so you can tell which copy of the course you used. You don
 need to understand the letters and numbers or type them into another command.
 
 Check that your clone contains `tools/start_exercise.py` and
-`examples/foundations/starter/main.py`. If those files are absent, you have an older
+`examples/course/foundations/starter/main.py`. If those files are absent, you have an older
 checkout than this lesson describes. Compare the branch selected on GitHub with
 the version linked by the course site. You'll need that course version before
 continuing; reinstalling Python won't add the missing files.

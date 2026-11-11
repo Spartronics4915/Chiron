@@ -3,12 +3,12 @@ from pathlib import Path
 import subprocess
 import sys
 import pytest
-from examples.intake_model.solution.intake import Intake
+from examples.course.intake_model.solution.intake import Intake
 
 ROOT = Path(__file__).resolve().parents[1]
-PROGRAMS = sorted((ROOT / "examples/foundations/worked").glob("*.py")) + sorted(
-    (ROOT / "examples/foundations/solutions").glob("*.py")) + [
-        ROOT / "examples/intake_model/solution/main.py"]
+PROGRAMS = sorted((ROOT / "examples/course/foundations/worked").glob("*.py")) + sorted(
+    (ROOT / "examples/course/foundations/solutions").glob("*.py")) + [
+        ROOT / "examples/course/intake_model/solution/main.py"]
 
 
 @pytest.mark.parametrize("program", PROGRAMS, ids=lambda p: str(p.relative_to(ROOT)))

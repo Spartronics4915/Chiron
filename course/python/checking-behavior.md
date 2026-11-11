@@ -38,7 +38,7 @@ Put this worked example in `student-work/foundations/checking_behavior.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/checking_behavior.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/checking_behavior.py
+```{literalinclude} ../../examples/course/foundations/worked/checking_behavior.py
 :language: python
 ```
 
@@ -68,7 +68,7 @@ Reuse `clamp_request` in `intake_output` instead of repeating its comparisons.
 :class: dropdown
 Check both high and low bounds. A held piece must not prevent reverse release, and disabling must override either direction.
 
-```{literalinclude} ../../examples/foundations/solutions/checking_behavior.py
+```{literalinclude} ../../examples/course/foundations/solutions/checking_behavior.py
 :language: python
 ```
 ::::

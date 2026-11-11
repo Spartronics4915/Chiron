@@ -1,4 +1,4 @@
-from intake import Intake
+from examples.course.intake_model.starter.intake import Intake
 
 intake = Intake()
 intake.update(0.5, True, False)

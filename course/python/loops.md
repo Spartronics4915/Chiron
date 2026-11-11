@@ -34,7 +34,7 @@ Put this worked example in `student-work/foundations/loops.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/loops.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/loops.py
+```{literalinclude} ../../examples/course/foundations/worked/loops.py
 :language: python
 ```
 
@@ -67,7 +67,7 @@ Use `range(1, 6)` for the sum. In the while body, subtract 1 from the countdown 
 :class: dropdown
 The final sum is 15. The countdown ends when its condition becomes false at zero; it does not need to print zero.
 
-```{literalinclude} ../../examples/foundations/solutions/loops.py
+```{literalinclude} ../../examples/course/foundations/solutions/loops.py
 :language: python
 ```
 ::::

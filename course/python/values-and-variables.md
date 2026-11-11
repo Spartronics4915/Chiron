@@ -34,7 +34,7 @@ Put this worked example in `student-work/foundations/values_and_variables.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/values_and_variables.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/values_and_variables.py
+```{literalinclude} ../../examples/course/foundations/worked/values_and_variables.py
 :language: python
 ```
 
@@ -72,7 +72,7 @@ Assign `previous_speed = speed` before changing `speed`.
 :class: dropdown
 The old speed should keep its earlier numeric value. Compare the order of the assignments if both outputs show the new value.
 
-```{literalinclude} ../../examples/foundations/solutions/values_and_variables.py
+```{literalinclude} ../../examples/course/foundations/solutions/values_and_variables.py
 :language: python
 ```
 ::::

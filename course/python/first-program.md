@@ -31,7 +31,7 @@ Put this worked example in `student-work/foundations/first_program.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/first_program.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/first_program.py
+```{literalinclude} ../../examples/course/foundations/worked/first_program.py
 :language: python
 ```
 
@@ -63,7 +63,7 @@ Use one print call for each line. Keep parentheses and matching quotes around ea
 :class: dropdown
 One possible result names a robot, describes an intake, and notes that autonomous is not implemented. Your wording can differ; the order and separate lines should match your plan.
 
-```{literalinclude} ../../examples/foundations/solutions/first_program.py
+```{literalinclude} ../../examples/course/foundations/solutions/first_program.py
 :language: python
 ```
 ::::

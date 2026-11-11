@@ -7,7 +7,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 parser = argparse.ArgumentParser(description=__doc__)
-parser.add_argument("assignment", nargs="?", default="examples/mechanism/solution")
+parser.add_argument("assignment", nargs="?", default="examples/course/intake_mechanism/solution")
 args = parser.parse_args()
 robot = (ROOT / args.assignment / "robot.py").resolve()
 if not robot.is_relative_to(ROOT) or not robot.is_file():

@@ -4,10 +4,10 @@ from pathlib import Path
 import shutil
 
 ROOT = Path(__file__).resolve().parents[1]
-STARTERS = {"foundations": "examples/foundations/starter",
-            "intake-model": "examples/intake_model/starter",
-            "periodic-intake": "examples/mechanism/basic",
-            "intake-subsystem": "examples/mechanism/basic"}
+STARTERS = {"foundations": "examples/course/foundations/starter",
+            "intake-model": "examples/course/intake_model/starter",
+            "periodic-intake": "examples/course/intake_mechanism/basic",
+            "intake-subsystem": "examples/course/intake_mechanism/basic"}
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument("exercise", choices=STARTERS)
 parser.add_argument("--name", help="Optional fresh destination name")

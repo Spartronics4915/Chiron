@@ -39,7 +39,7 @@ Construct and bind triggers once in `robotInit`. A physical controller button
 can provide an equivalent boolean later. For now the dashboard keeps hardware
 setup separate from learning scheduling.
 
-```{literalinclude} ../../examples/mechanism/solution/robot.py
+```{literalinclude} ../../examples/course/intake_mechanism/solution/robot.py
 :language: python
 ```
 

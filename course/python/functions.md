@@ -39,7 +39,7 @@ Put this worked example in `student-work/foundations/functions.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/functions.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/functions.py
+```{literalinclude} ../../examples/course/foundations/worked/functions.py
 :language: python
 ```
 
@@ -73,7 +73,7 @@ Return zero for disabled, then for a detected piece with positive request; other
 :class: dropdown
 Printing belongs in the caller for this example. The decision function can now be reused by a terminal demonstration or a robot without changing its behavior.
 
-```{literalinclude} ../../examples/foundations/solutions/functions.py
+```{literalinclude} ../../examples/course/foundations/solutions/functions.py
 :language: python
 ```
 ::::

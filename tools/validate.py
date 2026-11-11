@@ -36,8 +36,9 @@ if __name__ == "__main__":
     run("examples", [python, "-m", "pytest", "-q", "--junitxml=_build/reports/tests.xml"])
     run("notebooks", [python, "tools/check_notebooks.py"])
     for version in ("basic", "solution"):
+        robot = f"examples/course/intake_mechanism/{version}/robot.py"
         run(f"robot-{version}", [python, "-m", "robotpy", "--main",
-            f"examples/mechanism/{version}/robot.py", "test", "--builtin", "-j", "1", "--", "-q"])
+            robot, "test", "--builtin", "-j", "1", "--", "-q"])
     for label, base in (("root", ""), ("pages", "/")):
         clear_generated("html")
         clear_generated("site")

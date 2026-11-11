@@ -13,7 +13,7 @@ In your periodic example, `self.timer = wpilib.Timer()` creates a timer.
 seconds. Autonomous requests collection while elapsed time is below two seconds,
 then requests zero. Piece detection may stop the motor sooner through `set_intake`.
 
-```{literalinclude} ../../examples/mechanism/basic/robot.py
+```{literalinclude} ../../examples/course/intake_mechanism/basic/robot.py
 :language: python
 ```
 

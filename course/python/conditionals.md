@@ -33,7 +33,7 @@ Put this worked example in `student-work/foundations/conditionals.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/conditionals.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/conditionals.py
+```{literalinclude} ../../examples/course/foundations/worked/conditionals.py
 :language: python
 ```
 
@@ -67,7 +67,7 @@ The middle condition should ask both whether a piece is held and whether the req
 :class: dropdown
 The middle branch blocks only `has_piece and request > 0`. An early disabled branch prevents later requests from overriding the disabled result.
 
-```{literalinclude} ../../examples/foundations/solutions/conditionals.py
+```{literalinclude} ../../examples/course/foundations/solutions/conditionals.py
 :language: python
 ```
 ::::

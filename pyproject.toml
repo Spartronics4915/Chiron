@@ -27,7 +27,7 @@ docs = [
 package = false
 
 [tool.pytest.ini_options]
-testpaths = ["tests", "examples/mechanism/solution/test_intake_contract.py"]
+testpaths = ["tests", "examples/course/intake_mechanism/solution/test_intake_contract.py"]
 pythonpath = ["."]
 addopts = "-ra"
 

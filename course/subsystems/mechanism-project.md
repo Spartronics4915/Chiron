@@ -22,7 +22,7 @@ autonomous requests. Keep the supplied simulator; don't spend this project writi
 physics or wiring real hardware.
 
 Run the maintained solution only as a comparison:
-`python tools/run_robot.py examples/mechanism/solution`. It is not evidence that
+`python tools/run_robot.py examples/course/intake_mechanism/solution`. It is not evidence that
 your own assignment meets the requirements.
 
 ## Check the important paths

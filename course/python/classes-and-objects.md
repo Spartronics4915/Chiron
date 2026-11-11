@@ -38,7 +38,7 @@ Put this worked example in `student-work/foundations/classes_and_objects.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/classes_and_objects.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/classes_and_objects.py
+```{literalinclude} ../../examples/course/foundations/worked/classes_and_objects.py
 :language: python
 ```
 
@@ -71,7 +71,7 @@ Create two objects with separate calls to `Launcher()`, rather than assigning on
 :class: dropdown
 A class describes the structure; two construction calls create independent instances. Two names for one instance would share the same attributes.
 
-```{literalinclude} ../../examples/foundations/solutions/classes_and_objects.py
+```{literalinclude} ../../examples/course/foundations/solutions/classes_and_objects.py
 :language: python
 ```
 ::::

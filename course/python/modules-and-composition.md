@@ -35,7 +35,7 @@ Put this worked example in `student-work/foundations/modules_and_composition.py`
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/modules_and_composition.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/modules_and_composition.py
+```{literalinclude} ../../examples/course/foundations/worked/modules_and_composition.py
 :language: python
 ```
 

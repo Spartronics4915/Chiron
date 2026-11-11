@@ -49,10 +49,10 @@ Only then limit an otherwise allowed request. Store the sensor state on every up
 :::
 
 ::::{dropdown} Compare with a completed model
-The maintained solution lives in `examples/intake_model/solution`. Run it with
-`python examples/intake_model/solution/main.py` after your own attempt.
+The maintained solution lives in `examples/course/intake_model/solution`. Run it with
+`python examples/course/intake_model/solution/main.py` after your own attempt.
 
-```{literalinclude} ../../examples/intake_model/solution/intake.py
+```{literalinclude} ../../examples/course/intake_model/solution/intake.py
 :language: python
 ```
 ::::

@@ -21,7 +21,7 @@ def tmp_path():
 
 def test_copy_refuses_overwrite(tmp_path):
     (tmp_path / "tools").mkdir()
-    starter = tmp_path / "examples/foundations/starter"
+    starter = tmp_path / "examples/course/foundations/starter"
     starter.mkdir(parents=True)
     (starter / "main.py").write_text('print("original")\n')
     shutil.copy2(ROOT / "tools/start_exercise.py", tmp_path / "tools/start_exercise.py")

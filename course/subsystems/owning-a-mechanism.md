@@ -28,7 +28,7 @@ one behavior using that subsystem.
 
 ## Build on the framework
 
-```{literalinclude} ../../examples/mechanism/solution/intake_subsystem.py
+```{literalinclude} ../../examples/course/intake_mechanism/solution/intake_subsystem.py
 :language: python
 ```
 
@@ -60,7 +60,7 @@ Create `test_intake.py` beside it. **Pytest** is the check runner installed with
 the course: it calls functions whose names begin with `test_` and reports failed
 assertions. Start with this check:
 
-```{literalinclude} ../../examples/mechanism/solution/test_intake_contract.py
+```{literalinclude} ../../examples/course/intake_mechanism/solution/test_intake_contract.py
 :language: python
 ```
 

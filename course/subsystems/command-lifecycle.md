@@ -33,14 +33,14 @@ inside each command would produce different resources and defeat that ownership.
 
 ## Read the acquisition command
 
-Open `examples/mechanism/solution/intake_commands.py`. Focus on `Acquire` first:
+Open `examples/course/intake_mechanism/solution/intake_commands.py`. Focus on `Acquire` first:
 its constructor saves the shared intake and creates a timer. `initialize` restarts
 the timer and clears the previous success flag. `execute` requests collection.
 `isFinished` returns true for a detected piece **or** an expired timeout. `end`
 records success only when not interrupted and a piece is actually detected, then
 stops the intake and timer.
 
-```{literalinclude} ../../examples/mechanism/solution/intake_commands.py
+```{literalinclude} ../../examples/course/intake_mechanism/solution/intake_commands.py
 :language: python
 ```
 

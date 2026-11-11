@@ -36,7 +36,7 @@ Put this worked example in `student-work/foundations/lists_and_dictionaries.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/lists_and_dictionaries.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/lists_and_dictionaries.py
+```{literalinclude} ../../examples/course/foundations/worked/lists_and_dictionaries.py
 :language: python
 ```
 
@@ -70,7 +70,7 @@ Inside the loop, append the current request only when it passes the comparison.
 :class: dropdown
 The filtered result is [0.8, 0.9], length 2; the original remains length 4. A value exactly 0.5 does not pass `> 0.5`.
 
-```{literalinclude} ../../examples/foundations/solutions/lists_and_dictionaries.py
+```{literalinclude} ../../examples/course/foundations/solutions/lists_and_dictionaries.py
 :language: python
 ```
 ::::

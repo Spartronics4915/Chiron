@@ -36,7 +36,7 @@ Put this worked example in `student-work/foundations/debugging.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/debugging.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/debugging.py
+```{literalinclude} ../../examples/course/foundations/worked/debugging.py
 :language: python
 ```
 

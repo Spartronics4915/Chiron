@@ -34,7 +34,7 @@ Put this worked example in `student-work/foundations/operators.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/operators.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/operators.py
+```{literalinclude} ../../examples/course/foundations/worked/operators.py
 :language: python
 ```
 
@@ -72,7 +72,7 @@ Use `<=`, not `<`, if a speed exactly at the limit is allowed.
 :class: dropdown
 The first speed is 2.0 and passes; the second is 2.5 and fails. This boundary case distinguishes the two comparisons.
 
-```{literalinclude} ../../examples/foundations/solutions/operators.py
+```{literalinclude} ../../examples/course/foundations/solutions/operators.py
 :language: python
 ```
 ::::

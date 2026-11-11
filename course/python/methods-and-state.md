@@ -34,7 +34,7 @@ Put this worked example in `student-work/foundations/methods_and_state.py`.
 Read it once and write down what you think it prints. Then save and run
 `python student-work/foundations/methods_and_state.py` using your environment's Python.
 
-```{literalinclude} ../../examples/foundations/worked/methods_and_state.py
+```{literalinclude} ../../examples/course/foundations/worked/methods_and_state.py
 :language: python
 ```
 

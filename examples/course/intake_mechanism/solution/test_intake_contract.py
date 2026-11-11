@@ -1,6 +1,6 @@
 """A first subsystem check, also included directly in the beginner lesson."""
-from intake_subsystem import Intake
-from examples.support.intake_io import IntakeSim
+from examples.course.intake_mechanism.solution.intake_subsystem import Intake
+from examples.course.support.intake_io import IntakeSim
 
 
 def test_forward_request():

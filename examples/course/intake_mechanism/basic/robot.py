@@ -1,6 +1,6 @@
 """Periodic intake example; launch through tools/run_robot.py."""
 import wpilib
-from examples.support.intake_io import IntakeSim
+from examples.course.support.intake_io import IntakeSim
 
 
 class Robot(wpilib.TimedRobot):
