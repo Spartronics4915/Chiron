@@ -1,6 +1,7 @@
 {
     "$schema": "https://renovatebot.com",
     "extends": ["config:recommended"],
+    "dependencyDashboardApproval": false,
     "automerge": true,
     "automergeType": "branch",
     "platformAutomerge": false,
@@ -9,7 +10,8 @@
       {
         "matchPackageNames": ["*"],
         "groupName": "all dependencies",
-        "groupSlug": "all"
+        "groupSlug": "all",
+        "dependencyDashboardApproval": false
       }
     ]
   }
