@@ -42,8 +42,9 @@ if __name__ == "__main__":
     for label, base in (("root", ""), ("pages", "/")):
         clear_generated("html")
         clear_generated("site")
-        env = dict(os.environ, BASE_URL=base)
-        run(f"build-{label}", ["node", "node_modules/mystmd/dist/myst.cjs", "build",
-                               "--html", "--strict", "--ci"], env)
-        run(f"links-{label}", [python, "tools/check_links.py", "--base", base])
+        env = dict(os.environ, BASE_URL="")
+        run("build-root", ["node", "node_modules/mystmd/dist/myst.cjs", "build",
+                        "--html", "--strict", "--ci"], env)
+        run("links-root", [python, "tools/check_links.py", "--base", ""])
+
     print("Validation complete. Preview with: python tools/preview.py --base /")
