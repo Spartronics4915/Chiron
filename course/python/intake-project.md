@@ -7,8 +7,11 @@ Now use those ideas together with fewer instructions. You can look back at earli
 lessons, but write down your intended behavior before opening the solution.
 
 
-```{include} ../../snippets/terminal-reminder.md
-```
+:::{tip} Using a new terminal?
+Run commands from your Chiron folder with its `.venv` active. If `python` isn't
+found or a library seems missing, [check which Python you're using](#check-python-environment)
+before changing the code. The setup page has the activation command for your system.
+:::
 
 ## What you're building
 

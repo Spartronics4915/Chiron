@@ -16,7 +16,6 @@ project:
         - tools/**
         - tests/**
         - templates/**
-        - snippets/**
         - .research-cache/**
         - .venv/**
         - node_modules/**

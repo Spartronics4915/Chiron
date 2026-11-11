@@ -6,8 +6,11 @@ You changed your first program. Let's record that change so you can find it late
 Use the terminal in your Chiron folder; these are Git commands, not Python code.
 
 
-```{include} ../../snippets/terminal-reminder.md
-```
+:::{tip} Using a new terminal?
+Run commands from your Chiron folder with its `.venv` active. If `python` isn't
+found or a library seems missing, [check which Python you're using](#check-python-environment)
+before changing the code. The setup page has the activation command for your system.
+:::
 
 ## Make a commit
 

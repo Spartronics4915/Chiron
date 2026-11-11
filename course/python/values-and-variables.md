@@ -24,8 +24,11 @@ are different names. Use lowercase words with underscores for our variables.
 
 ## Read it before running it
 
-```{include} ../../snippets/terminal-reminder.md
-```
+:::{tip} Using a new terminal?
+Run commands from your Chiron folder with its `.venv` active. If `python` isn't
+found or a library seems missing, [check which Python you're using](#check-python-environment)
+before changing the code. The setup page has the activation command for your system.
+:::
 
 Put this worked example in `student-work/foundations/values_and_variables.py`.
 Read it once and write down what you think it prints. Then save and run
