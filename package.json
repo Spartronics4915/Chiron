@@ -11,5 +11,5 @@
     "check:links": "python tools/check_links.py",
     "preview": "python tools/preview.py"
   },
-  "devDependencies": { "mystmd": "1.12.0" }
+  "devDependencies": { "mystmd": "1.13.0" }
 }
