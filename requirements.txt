@@ -71,7 +71,7 @@ msvc-runtime==14.51.36231 ; sys_platform == 'win32'
     # via robotpy-native-wpiutil
 nest-asyncio2==1.7.4
     # via ipykernel
-numpy==2.5.4
+numpy==2.5.5
     # via
     #   chiron-course
     #   contourpy
@@ -94,7 +94,7 @@ pint==0.26.2
     # via pyfrc
 pip==26.3 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
     # via robotpy-installer
-platformdirs==4.14.5
+platformdirs==4.14.7
     # via
     #   jupyter-core
     #   pint
