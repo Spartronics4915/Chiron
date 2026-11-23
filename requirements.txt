@@ -94,7 +94,7 @@ pint==0.26.2
     # via pyfrc
 pip==26.3 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
     # via robotpy-installer
-platformdirs==4.14.7
+platformdirs==4.14.8
     # via
     #   jupyter-core
     #   pint
@@ -244,7 +244,7 @@ typing-extensions==4.16.0
     #   jupyter-client
     #   pint
     #   robotpy-commands-v2
-wcwidth==0.9.4
+wcwidth==0.9.5
     # via prompt-toolkit
 widgetsnbextension==4.0.16
     # via ipywidgets
