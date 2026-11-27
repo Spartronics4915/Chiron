@@ -33,7 +33,7 @@ flexcache==0.3
     # via pint
 flexparser==0.4
     # via pint
-fonttools==4.68.0
+fonttools==4.69.1
     # via matplotlib
 iniconfig==2.3.1
     # via pytest
@@ -41,7 +41,7 @@ invoke==3.0.3 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
     # via paramiko
 ipykernel==7.4.0
     # via chiron-course
-ipython==9.18.1
+ipython==9.19.1
     # via
     #   ipykernel
     #   ipywidgets
@@ -76,7 +76,7 @@ numpy==2.5.5
     #   chiron-course
     #   contourpy
     #   matplotlib
-packaging==26.3
+packaging==26.4
     # via
     #   ipykernel
     #   matplotlib
@@ -221,7 +221,7 @@ tomli==2.5.0
     # via
     #   pyfrc
     #   robotpy-installer
-tomlkit==0.15.2 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
+tomlkit==0.15.3 ; platform_machine != 'armv7l' and platform_machine != 'roborio'
     # via robotpy-installer
 toposort==1.10
     # via robotpy-wpilib-utilities
